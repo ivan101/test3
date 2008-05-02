@@ -130,7 +130,7 @@ Join the translation team today! Go to
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>psi-dev@conference.jabber.ru&lt;br&gt;
 &lt;a href=&quot;http://xz.zsttk.ru/psi/lang/&quot;&gt;http://xz.zsttk.ru/psi/lang/&lt;/a&gt;&lt;br&gt;
-2008.04.24</translation>
+2008.05.03</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="70"/>
@@ -737,7 +737,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="113"/>
         <source>Over encrypted connection</source>
-        <translation>Шифрование соединения</translation>
+        <translation>Если соединение шифруется</translation>
     </message>
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="593"/>
@@ -6439,12 +6439,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsTabToolbars</name>
     <message>
-        <location filename="../src/options/opt_toolbars.cpp" line="58"/>
+        <location filename="../src/options/opt_toolbars.cpp" line="52"/>
         <source>Configure Psi toolbars</source>
         <translation>Настройка панелей инструментов</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_toolbars.cpp" line="58"/>
+        <location filename="../src/options/opt_toolbars.cpp" line="52"/>
         <source>Toolbars</source>
         <translation>Панели инструментов</translation>
     </message>
@@ -8205,47 +8205,47 @@ Reason: %1.</source>
 <context>
     <name>PsiCon</name>
     <message>
-        <location filename="../src/psicon.cpp" line="1426"/>
+        <location filename="../src/psicon.cpp" line="1430"/>
         <source>Account setup</source>
         <translation>Настройки аккаунта</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1400"/>
+        <location filename="../src/psicon.cpp" line="1404"/>
         <source>Computer went to sleep</source>
         <translation>Компьютер вошел в спящий режим</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="662"/>
+        <location filename="../src/psicon.cpp" line="666"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1088"/>
+        <location filename="../src/psicon.cpp" line="1092"/>
         <source>I understand</source>
         <translation>Я понимаю</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1058"/>
+        <location filename="../src/psicon.cpp" line="1062"/>
         <source>Information</source>
         <translation>Информация</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="662"/>
+        <location filename="../src/psicon.cpp" line="666"/>
         <source>Please disconnect before changing the profile.</source>
         <translation>Отключитесь от сервера перед изменением профиля.</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1427"/>
+        <location filename="../src/psicon.cpp" line="1431"/>
         <source>Register new account</source>
         <translation>Зарегистрировать новый аккаунт</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1058"/>
+        <location filename="../src/psicon.cpp" line="1062"/>
         <source>Some of the options you changed will only have full effect upon restart.</source>
         <translation>Большинство изменений вступят в силу только после перезапуска.</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1393"/>
+        <location filename="../src/psicon.cpp" line="1397"/>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
         <translation>Невозможно подключиться к порту %1 для передачи данных.
@@ -8257,22 +8257,22 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>Невозможно загрузить набор икокнок! Проверьте установку Psi.</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1428"/>
+        <location filename="../src/psicon.cpp" line="1432"/>
         <source>Use existing account</source>
         <translation>Использовать существующий аккаунт</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1393"/>
+        <location filename="../src/psicon.cpp" line="1397"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1087"/>
+        <location filename="../src/psicon.cpp" line="1091"/>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
         <translation>Вы не можете отключить &lt;i&gt;все&lt;/i&gt; инструментальные панели &lt;i&gt;и&lt;/i&gt; строку меню. Если Вы сделаете так, то будете неспособны вернуть их назад, когда вы передумаете.</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1426"/>
+        <location filename="../src/psicon.cpp" line="1430"/>
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
         <translation>Вам нужно настроить аккаунт для начала работы. Вы хотите зарегистрировать новый аккаунт или использовать существующий?</translation>
     </message>
@@ -8577,7 +8577,7 @@ Would you like to activate that session now?</source>
         <translation>[Входящий файл]</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_toolbars.cpp" line="243"/>
+        <location filename="../src/options/opt_toolbars.cpp" line="232"/>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;без имени%1&gt;</translation>
     </message>
@@ -9889,7 +9889,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/mainwin_p.cpp" line="486"/>
         <source>Spacer provides spacing to separate actions</source>
-        <translation>Разделитель действий</translation>
+        <translation>Динамический разделитель</translation>
     </message>
 </context>
 <context>
