@@ -130,7 +130,7 @@ Join the translation team today! Go to
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>psi-dev@conference.jabber.ru&lt;br&gt;
 &lt;a href=&quot;http://xz.zsttk.ru/psi/lang/&quot;&gt;http://xz.zsttk.ru/psi/lang/&lt;/a&gt;&lt;br&gt;
-2008.06.03</translation>
+2008.06.29</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="70"/>
@@ -3378,7 +3378,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/gcuserview.cpp" line="398"/>
         <source>&amp;Ban</source>
-        <translation>&amp;Заблокировать</translation>
+        <translation>&amp;Бан (ban)</translation>
     </message>
     <message>
         <location filename="../src/gcuserview.cpp" line="426"/>
@@ -3403,7 +3403,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/gcuserview.cpp" line="396"/>
         <source>&amp;Kick</source>
-        <translation>&amp;Выкинуть</translation>
+        <translation>&amp;Выгнать (kick)</translation>
     </message>
     <message>
         <location filename="../src/gcuserview.cpp" line="417"/>
@@ -4242,7 +4242,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="../src/info.ui" line="491"/>
         <source>&amp;Disco</source>
-        <translation>&amp;Команды</translation>
+        <translation>&amp;Обзор</translation>
     </message>
 </context>
 <context>
@@ -8417,7 +8417,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psioptions.cpp" line="153"/>
         <source>Out eating.  Mmmm.. food.</source>
-        <translation>Я ем!   Попробуйте сами, это довольно увлекательное занятие.</translation>
+        <translation>Я ем! Попробуйте сами, это довольно увлекательное занятие.</translation>
     </message>
     <message>
         <location filename="../src/psioptions.cpp" line="176"/>
