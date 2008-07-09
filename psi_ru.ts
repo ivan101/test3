@@ -130,7 +130,7 @@ Join the translation team today! Go to
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>psi-dev@conference.jabber.ru&lt;br&gt;
 &lt;a href=&quot;http://xz.zsttk.ru/psi/lang/&quot;&gt;http://xz.zsttk.ru/psi/lang/&lt;/a&gt;&lt;br&gt;
-2008.06.29</translation>
+2008.07.09</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="70"/>
@@ -10534,6 +10534,11 @@ And these work only in groupchat dialog:
         <location filename="../src/widgets/urlobject.cpp" line="56"/>
         <source>Send massage to</source>
         <translation>Отправить сообщение</translation>
+    </message>
+    <message>
+        <location filename="../src/widgets/urlobject.cpp" line="68"/>
+        <source>User Info</source>
+        <translation>vCard</translation>
     </message>
 </context>
 <context>
