@@ -130,7 +130,7 @@ Join the translation team today! Go to
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>psi-dev@conference.jabber.ru&lt;br&gt;
 &lt;a href=&quot;http://xz.zsttk.ru/psi/lang/&quot;&gt;http://xz.zsttk.ru/psi/lang/&lt;/a&gt;&lt;br&gt;
-2008.07.09</translation>
+2008.07.30</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="70"/>
@@ -3819,6 +3819,34 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <location filename="../cutestuff/network/httpconnect.cpp" line="312"/>
+        <source>Invalid reply</source>
+        <translation>Неверный ответ</translation>
+    </message>
+</context>
+<context>
+    <name>HttpProxyGetStream</name>
+    <message>
+        <location filename="../iris/src/xmpp/cutestuff/httppoll.cpp" line="900"/>
+        <source>Authentication failed</source>
+        <translation>Аутентификация не прошла</translation>
+    </message>
+    <message>
+        <location filename="../iris/src/xmpp/cutestuff/httppoll.cpp" line="904"/>
+        <source>Host not found</source>
+        <translation>Сервер не найден</translation>
+    </message>
+    <message>
+        <location filename="../iris/src/xmpp/cutestuff/httppoll.cpp" line="908"/>
+        <source>Access denied</source>
+        <translation>Доступ отвергнут</translation>
+    </message>
+    <message>
+        <location filename="../iris/src/xmpp/cutestuff/httppoll.cpp" line="912"/>
+        <source>Connection refused</source>
+        <translation>Соединение отклонено</translation>
+    </message>
+    <message>
+        <location filename="../iris/src/xmpp/cutestuff/httppoll.cpp" line="916"/>
         <source>Invalid reply</source>
         <translation>Неверный ответ</translation>
     </message>
@@ -10622,7 +10650,7 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="227"/>
         <source>%1 left (session: %2).</source>
-        <translation></translation>
+        <translation>%1 ушёл (сессия: %2).</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="262"/>
@@ -10634,7 +10662,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="158"/>
         <source>Add images</source>
-        <translation></translation>
+        <translation>Добавить изображения</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="232"/>
@@ -10646,17 +10674,17 @@ The contents of the whiteboard will be lost.</source>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="74"/>
         <source>Change the geometry</source>
-        <translation>Изменить размеры</translation>
+        <translation>Изменить размер</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="75"/>
         <source>Clear the whiteboard</source>
-        <translation>Очистить доску для рисования</translation>
+        <translation>Очистить доску</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="139"/>
         <source>Draw paths</source>
-        <translation>Контур</translation>
+        <translation>Карандаш</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="86"/>
@@ -10666,7 +10694,7 @@ The contents of the whiteboard will be lost.</source>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="76"/>
         <source>End session</source>
-        <translation>Конец соединения</translation>
+        <translation>Закрыть соединение</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="129"/>
@@ -10701,17 +10729,17 @@ The contents of the whiteboard will be lost.</source>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="73"/>
         <source>Save session</source>
-        <translation></translation>
+        <translation>Сохранить сеанс</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="73"/>
         <source>Save the contents of the whiteboard</source>
-        <translation></translation>
+        <translation>Сохранить содержимое доски</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="361"/>
         <source>Save Whitebaord</source>
-        <translation></translation>
+        <translation>Сохранить доску для рисования</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="363"/>
@@ -10746,7 +10774,7 @@ The contents of the whiteboard will be lost.</source>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="349"/>
         <source>Set new width:</source>
-        <translation>Новая высота:</translation>
+        <translation>Новая ширина:</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="81"/>
@@ -10832,17 +10860,17 @@ The contents of the whiteboard will be lost.</source>
     <message>
         <location filename="../src/whiteboarding/wbmanager.cpp" line="136"/>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
-        <translation></translation>
+        <translation>%1 приглашает вас порисовать. Вы хотите присоедениться?</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbmanager.cpp" line="61"/>
         <source>Initial SVG Document for the Whiteboard</source>
-        <translation></translation>
+        <translation>Пустой документ SVG для доски рисования</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbmanager.cpp" line="54"/>
         <source>Open Existing SVG?</source>
-        <translation></translation>
+        <translation>Открыть существующий SVG?</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbmanager.cpp" line="63"/>
@@ -10852,12 +10880,22 @@ The contents of the whiteboard will be lost.</source>
     <message>
         <location filename="../src/whiteboarding/wbmanager.cpp" line="135"/>
         <source>Whiteboarding Invitation?</source>
-        <translation></translation>
+        <translation>Приглашение порисовать</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbmanager.cpp" line="55"/>
         <source>Would you like to open an existing SVG document in the whitebaord?</source>
-        <translation></translation>
+        <translation>Вы хотите открыть существующий документ SVG в доске для рисования?</translation>
+    </message>
+    <message>
+        <location filename="../src/whiteboarding/wbmanager.cpp" line="53"/>
+        <source>Unsupported</source>
+        <translation>Не поддерживается</translation>
+    </message>
+    <message>
+        <location filename="../src/whiteboarding/wbmanager.cpp" line="53"/>
+        <source>The contact does not support whiteboarding.</source>
+        <translation>Контакт не поддерживает доску для рисования.</translation>
     </message>
 </context>
 <context>
