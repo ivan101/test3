@@ -130,7 +130,7 @@ Join the translation team today! Go to
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>psi-dev@conference.jabber.ru&lt;br&gt;
 &lt;a href=&quot;http://xz.zsttk.ru/psi/lang/&quot;&gt;http://xz.zsttk.ru/psi/lang/&lt;/a&gt;&lt;br&gt;
-2008.08.18</translation>
+2008.08.29</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="70"/>
@@ -3366,6 +3366,11 @@ Reason: %1</source>
         <location filename="../src/groupchatdlg.cpp" line="775"/>
         <source>Enter a topic:</source>
         <translation type="obsolete">Указать тему:</translation>
+    </message>
+    <message>
+        <location filename="../src/groupchatdlg.cpp" line="941"/>
+        <source>Unable to join groupchat.<byte value="x9"/>Reason: %1</source>
+        <translation>Невозможно войти в конференцию. Причина: %1</translation>
     </message>
 </context>
 <context>
@@ -8169,6 +8174,16 @@ Reason: %1.</source>
         <source>&amp;XML Console</source>
         <translation>Консоль &amp;XML</translation>
     </message>
+    <message>
+        <location filename="../src/psiactionlist.cpp" line="345"/>
+        <source>Psi Forum (Online)</source>
+        <translation>Форум Psi</translation>
+    </message>
+    <message>
+        <location filename="../src/psiactionlist.cpp" line="344"/>
+        <source>Psi &amp;Forum (Online)</source>
+        <translation>&amp;Форум Psi</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -9937,6 +9952,298 @@ Reason: %1</source>
         <location filename="../src/serverlistquerier.cpp" line="52"/>
         <source>Unable to parse server list</source>
         <translation>Невозможно обработать список серверов</translation>
+    </message>
+</context>
+<context>
+    <name>Shortcuts</name>
+    <message>
+        <source>Shortcuts in the chat dialog</source>
+        <translation>Окно чата</translation>
+    </message>
+    <message>
+        <source>Switch to the next tab</source>
+        <translation>Перейти к следующему табу</translation>
+    </message>
+    <message>
+        <source>Switch to the previous tab</source>
+        <translation>Перейти к предыдущему табу</translation>
+    </message>
+    <message>
+        <source>Find text</source>
+        <translation>Найти текст</translation>
+    </message>
+    <message>
+        <source>Sends the message</source>
+        <translation>Отправить сообщение</translation>
+    </message>
+    <message>
+        <source>Clear the text</source>
+        <translation>Очистить текст</translation>
+    </message>
+    <message>
+        <source>Shortcuts in the contactlist</source>
+        <translation>Ростер</translation>
+        <translation>Ростер</translation>
+    </message>
+    <message>
+        <source>Assign a custom avatar to the selected contact</source>
+        <translation>Установить аватар для выбранного контакта</translation>
+    </message>
+    <message>
+        <source>Remove custom avatar from the selected contact</source>
+        <translation>Удалить аватар для выбранного контакта</translation>
+    </message>
+    <message>
+        <source>Delete the selected contact</source>
+        <translation>Удалить выбранный контакт</translation>
+    </message>
+    <message>
+        <source>Open a chat to the selected contact</source>
+        <translation>Открыть чат для выбранного контакта</translation>
+    </message>
+    <message>
+        <source>Send a message to the selected contact</source>
+        <translation>Отправить сообщение для выбранного контакта</translation>
+    </message>
+    <message>
+        <source>Receive incoming event</source>
+        <translation>Получить входящие сообщения</translation>
+    </message>
+    <message>
+        <source>Rename the selected contact</source>
+        <translation>Переименовать выбранный контакт</translation>
+    </message>
+    <message>
+        <source>Log on to the selected transport</source>
+        <translation>Подключить выбранный транспорт</translation>
+    </message>
+    <message>
+        <source>Common actions</source>
+        <translation>Общие действия</translation>
+    </message>
+    <message>
+        <source>Scroll up</source>
+        <translation>Прокрутить вверх</translation>
+    </message>
+    <message>
+        <source>Scroll down</source>
+        <translation>Прокрутить вниз</translation>
+    </message>
+    <message>
+        <source>Close the current window/tab</source>
+        <translation>Закрыть текущее окно/таб</translation>
+    </message>
+    <message>
+        <source>Open the message history</source>
+        <translation>Открыть историю сообщений</translation>
+    </message>
+    <message>
+        <source>Show the user info of the contact</source>
+        <translation>Показать vCard контакта</translation>
+    </message>
+    <message>
+        <source>Shortcuts available from outside of the application</source>
+        <translation>Программа</translation>
+    </message>
+    <message>
+        <source>Show/hide the application</source>
+        <translation>Показать/скрыть программу</translation>
+    </message>
+    <message>
+        <source>Bring the application to front</source>
+        <translation>Вывести программу на передний план</translation>
+    </message>
+    <message>
+        <source>Send new message</source>
+        <translation>Создать сообщение</translation>
+    </message>
+    <message>
+        <source>Shortcuts in the message dialog</source>
+        <translation>Окно сообщения</translation>
+    </message>
+    <message>
+        <source>Send the message</source>
+        <translation>Отправить сообщение</translation>
+    </message>
+    <message>
+        <source>Shortcuts in the status dialog</source>
+        <translation>Окно установки статуса</translation>
+    </message>
+    <message>
+        <source>Set the status message</source>
+        <translation>Установить статус</translation>
+    </message>
+    <message>
+        <source>Shortcuts in the service discovery dialog</source>
+        <translation>Окно обзора сервисов</translation>
+    </message>
+	<message>
+        <source>Action List</source>
+        <translation>Список действий</translation>
+    </message>
+	<message>
+        <source>Options</source>
+        <translation>Настройка</translation>
+    </message>
+	<message>
+        <source>Status</source>
+        <translation>Статус</translation>
+    </message>
+	<message>
+        <source>Event Notifier</source>
+        <translation>Оповещение события</translation>
+    </message>
+	<message>
+        <source>About Psi</source>
+        <translation>О Psi</translation>
+    </message>
+	<message>
+        <source>About Qt</source>
+        <translation>О Qt</translation>
+    </message>
+	<message>
+        <source>QCA key store diag</source>
+        <translation>Диагностика ключа защиты памяти</translation>
+    </message>
+	<message>
+        <source>QCA plugin diag</source>
+        <translation>Диагностика плагинов безопасности</translation>
+    </message>
+	<message>
+        <source>Open Help</source>
+        <translation>Открыть справку</translation>
+    </message>
+	<message>
+        <source>Open Home Page</source>
+        <translation>Открыть домашнюю страницу</translation>
+    </message>
+	<message>
+        <source>Open Wiki</source>
+        <translation>Открыть Wiki</translation>
+    </message>
+	<message>
+        <source>Help Psi MUC</source>
+        <translation>Войти в конференцию обсуждения Psi</translation>
+    </message>
+	<message>
+        <source>README</source>
+        <translation>Инструкции</translation>
+    </message>
+	<message>
+        <source>Report Bug</source>
+        <translation>Сообщить об ошибке</translation>
+    </message>
+	<message>
+        <source>Tips</source>
+        <translation>Советы</translation>
+    </message>
+	<message>
+        <source>Account Setup</source>
+        <translation>Настройки аккаунта</translation>
+    </message>
+	<message>
+        <source>Add Contact</source>
+        <translation>Добавить контакт</translation>
+    </message>
+	<message>
+        <source>Change Profile</source>
+        <translation>Сменить профиль</translation>
+    </message>
+	<message>
+        <source>Service Discovery</source>
+        <translation>Обзор сервисов</translation>
+    </message>
+	<message>
+        <source>File Transfer</source>
+        <translation>Передача файлов</translation>
+    </message>
+	<message>
+        <source>Join Group Chat</source>
+        <translation>Войти в конференцию</translation>
+    </message>
+	<message>
+        <source>New Message</source>
+        <translation>Создать сообщение</translation>
+    </message>
+	<message>
+        <source>Play Sounds</source>
+        <translation>Включить звуки</translation>
+    </message>
+	<message>
+        <source>Quit</source>
+        <translation>Выход</translation>
+    </message>
+	<message>
+        <source>Toolbars</source>
+        <translation>Панель инструментов</translation>
+    </message>
+	<message>
+        <source>XML Console</source>
+        <translation>Консоль XML</translation>
+    </message>
+	<message>
+        <source>Publish Tune</source>
+        <translation>Показывать песню</translation>
+    </message>
+	<message>
+        <source>Show Agents</source>
+        <translation>Показывать агенты</translation>
+    </message>
+	<message>
+        <source>Show Away Contacts</source>
+        <translation>Показывать контакты "отсутствую"</translation>
+    </message>
+	<message>
+        <source>Show Hidden Contacts</source>
+        <translation>Показывать скрытые контакты</translation>
+    </message>
+	<message>
+        <source>Show Offline Contacts</source>
+        <translation>Показывать контакты "не в сети"</translation>
+    </message>
+	<message>
+        <source>Show Self</source>
+        <translation>Показывать свой контакт</translation>
+    </message>
+	<message>
+        <source>Show Status Message</source>
+        <translation>Показывать статусные сообщения</translation>
+    </message>
+	<message>
+        <source>Status All</source>
+        <translation>Установить статус</translation>
+    </message>
+	<message>
+        <source>Status Away</source>
+        <translation>Статус "отсутствую"</translation>
+    </message>
+	<message>
+        <source>Status Chat</source>
+        <translation>Статус "готов поболтать"</translation>
+    </message>
+	<message>
+        <source>Status DND</source>
+        <translation>Статус "не беспокоить"</translation>
+    </message>
+	<message>
+        <source>Status Invisible</source>
+        <translation>Статус "невидимый"</translation>
+    </message>
+	<message>
+        <source>Status Offline</source>
+        <translation>Статус "отключен"</translation>
+    </message>
+	<message>
+        <source>Status Online</source>
+        <translation>Статус "доступен"</translation>
+    </message>
+	<message>
+        <source>Status XA</source>
+        <translation>Статус "недоступен"</translation>
+    </message>
+	<message>
+        <source>View Groups</source>
+        <translation>Показывать группы</translation>
     </message>
 </context>
 <context>
