@@ -3424,7 +3424,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="934"/>
         <source>Unable to join groupchat.  Reason: %1</source>
-        <translation type="obsolete">Невозможно войти в конференцию. Причина: %1</translation>
+        <translation>Невозможно войти в конференцию. Причина: %1</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="936"/>
@@ -3464,12 +3464,12 @@ Reason: %1</source>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="774"/>
         <source>Set Groupchat Topic</source>
-        <translation type="obsolete">Тема конференции</translation>
+        <translation>Тема конференции</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="775"/>
         <source>Enter a topic:</source>
-        <translation type="obsolete">Указать тему:</translation>
+        <translation>Указать тему:</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="941"/>
@@ -5003,22 +5003,22 @@ Reason: %1</source>
     <message>
         <location filename="../src/miniclient.cpp" line="168"/>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Отмена</translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <location filename="../src/miniclient.cpp" line="167"/>
         <source>Co&amp;ntinue</source>
-        <translation type="obsolete">П&amp;родолжить</translation>
+        <translation>П&amp;родолжить</translation>
     </message>
     <message>
         <location filename="../src/miniclient.cpp" line="166"/>
         <source>&amp;Details...</source>
-        <translation type="obsolete">&amp;Подробности...</translation>
+        <translation>&amp;Подробности...</translation>
     </message>
     <message>
         <location filename="../src/miniclient.cpp" line="165"/>
         <source>Reason: %1.</source>
-        <translation type="obsolete">Причина: %1.</translation>
+        <translation>Причина: %1.</translation>
     </message>
     <message>
         <location filename="../src/miniclient.cpp" line="164"/>
@@ -5033,7 +5033,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/miniclient.cpp" line="165"/>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation type="obsolete">Сертификат %1 не прошел проверку на аутентичность.</translation>
+        <translation>Сертификат %1 не прошел проверку на аутентичность.</translation>
     </message>
     <message>
         <location filename="../src/miniclient.cpp" line="247"/>
@@ -7547,12 +7547,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/psiaccount.cpp" line="1312"/>
         <source>Co&amp;ntinue</source>
-        <translation type="obsolete">П&amp;родолжить</translation>
+        <translation>П&amp;родолжить</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="1311"/>
         <source>&amp;Details...</source>
-        <translation type="obsolete">&amp;Подробности...</translation>
+        <translation>&amp;Подробности...</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="947"/>
@@ -7697,7 +7697,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/psiaccount.cpp" line="1310"/>
         <source>Reason: %1.</source>
-        <translation type="obsolete">Причина: %1.</translation>
+        <translation>Причина: %1.</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="1615"/>
@@ -7767,7 +7767,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/psiaccount.cpp" line="1310"/>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation type="obsolete">Сертификат %1 не прошел проверку на достоверность.</translation>
+        <translation>Сертификат %1 не прошел проверку на достоверность.</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="947"/>
@@ -8466,7 +8466,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../src/psicon.cpp" line="979"/>
         <source>Unsupported URI type</source>
-        <translation type="unfinished"></translation>
+        <translation>Неподдерживаемый тип URI</translation>
     </message>
 </context>
 <context>
@@ -9701,22 +9701,22 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="17"/>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сертификат %1 не прошел проверку на достоверность.</translation>
     </message>
     <message>
         <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="20"/>
         <source>&amp;Details...</source>
-        <translation type="unfinished">&amp;Подробности...</translation>
+        <translation>&amp;Подробности...</translation>
     </message>
     <message>
         <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="21"/>
         <source>&amp;Connect anyway</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Подключиться все равно</translation>
     </message>
     <message>
         <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="22"/>
         <source>&amp;Trust this certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Доверять этому сертификату</translation>
     </message>
 </context>
 <context>
@@ -9817,32 +9817,32 @@ Reason: %1</source>
     <message>
         <location filename="../src/sslcert.ui" line="41"/>
         <source>Certificate Validation:</source>
-        <translation type="obsolete">Проверка сертификата:</translation>
+        <translation>Проверка сертификата:</translation>
     </message>
     <message>
         <location filename="../src/sslcert.ui" line="167"/>
         <source>Close</source>
-        <translation type="obsolete">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location filename="../src/sslcert.ui" line="83"/>
         <source>Serial Number:</source>
-        <translation type="obsolete">Серийный номер:</translation>
+        <translation>Серийный номер:</translation>
     </message>
     <message>
         <location filename="../src/sslcert.ui" line="13"/>
         <source>SSL Cert</source>
-        <translation type="obsolete">Сертификат SSL</translation>
+        <translation>Сертификат SSL</translation>
     </message>
     <message>
         <location filename="../src/sslcert.ui" line="55"/>
         <source>Valid From:</source>
-        <translation type="obsolete">Действителен от:</translation>
+        <translation>Действителен от:</translation>
     </message>
     <message>
         <location filename="../src/sslcert.ui" line="69"/>
         <source>Valid Until:</source>
-        <translation type="obsolete">Действителен до:</translation>
+        <translation>Действителен до:</translation>
     </message>
 </context>
 <context>
@@ -9850,72 +9850,72 @@ Reason: %1</source>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="54"/>
         <source>Common name:</source>
-        <translation type="obsolete">Полное имя:</translation>
+        <translation>Полное имя:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="53"/>
         <source>Country:</source>
-        <translation type="obsolete">Страна:</translation>
+        <translation>Страна:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="55"/>
         <source>Domain name:</source>
-        <translation type="obsolete">Имя домена:</translation>
+        <translation>Имя домена:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="57"/>
         <source>Email:</source>
-        <translation type="obsolete">Email:</translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="89"/>
         <source>Issuer Details:</source>
-        <translation type="obsolete">Выпущен:</translation>
+        <translation>Выпущен:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="51"/>
         <source>Locality:</source>
-        <translation type="obsolete">Местонахождение:</translation>
+        <translation>Местонахождение:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="49"/>
         <source>Organization:</source>
-        <translation type="obsolete">Организация:</translation>
+        <translation>Организация:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="50"/>
         <source>Organizational unit:</source>
-        <translation type="obsolete">Подразделение:</translation>
+        <translation>Подразделение:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="72"/>
         <source>Reason: %1.</source>
-        <translation type="obsolete">Причина: %1.</translation>
+        <translation>Причина: %1.</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="52"/>
         <source>State:</source>
-        <translation type="obsolete">Штат:</translation>
+        <translation>Штат:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="88"/>
         <source>Subject Details:</source>
-        <translation type="obsolete">Тема:</translation>
+        <translation>Тема:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="72"/>
         <source>The certificate is NOT valid!</source>
-        <translation type="obsolete">Сертификат НЕ подходит.</translation>
+        <translation>Сертификат НЕ подходит.</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="68"/>
         <source>The certificate is valid.</source>
-        <translation type="obsolete">Сертификат подходит.</translation>
+        <translation>Сертификат подходит.</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="56"/>
         <source>XMPP name:</source>
-        <translation type="obsolete">Имя XMPP:</translation>
+        <translation>Имя XMPP:</translation>
     </message>
 </context>
 <context>
@@ -10092,291 +10092,291 @@ Reason: %1</source>
     <name>Shortcuts</name>
     <message>
         <source>Shortcuts in the chat dialog</source>
-        <translation type="obsolete">Окно чата</translation>
+        <translation>Окно чата</translation>
     </message>
     <message>
         <source>Switch to the next tab</source>
-        <translation type="obsolete">Перейти к следующему табу</translation>
+        <translation>Перейти к следующему табу</translation>
     </message>
     <message>
         <source>Switch to the previous tab</source>
-        <translation type="obsolete">Перейти к предыдущему табу</translation>
+        <translation>Перейти к предыдущему табу</translation>
     </message>
     <message>
         <source>Find text</source>
-        <translation type="obsolete">Найти текст</translation>
+        <translation>Найти текст</translation>
     </message>
     <message>
         <source>Sends the message</source>
-        <translation type="obsolete">Отправить сообщение</translation>
+        <translation>Отправить сообщение</translation>
     </message>
     <message>
         <source>Clear the text</source>
-        <translation type="obsolete">Очистить текст</translation>
+        <translation>Очистить текст</translation>
     </message>
     <message>
         <source>Shortcuts in the contactlist</source>
-        <translation type="obsolete">Ростер</translation>
+        <translation>Ростер</translation>
     </message>
     <message>
         <source>Assign a custom avatar to the selected contact</source>
-        <translation type="obsolete">Установить аватар для выбранного контакта</translation>
+        <translation>Установить аватар для выбранного контакта</translation>
     </message>
     <message>
         <source>Remove custom avatar from the selected contact</source>
-        <translation type="obsolete">Удалить аватар для выбранного контакта</translation>
+        <translation>Удалить аватар для выбранного контакта</translation>
     </message>
     <message>
         <source>Delete the selected contact</source>
-        <translation type="obsolete">Удалить выбранный контакт</translation>
+        <translation>Удалить выбранный контакт</translation>
     </message>
     <message>
         <source>Open a chat to the selected contact</source>
-        <translation type="obsolete">Открыть чат для выбранного контакта</translation>
+        <translation>Открыть чат для выбранного контакта</translation>
     </message>
     <message>
         <source>Send a message to the selected contact</source>
-        <translation type="obsolete">Отправить сообщение для выбранного контакта</translation>
+        <translation>Отправить сообщение для выбранного контакта</translation>
     </message>
     <message>
         <source>Receive incoming event</source>
-        <translation type="obsolete">Получить входящие сообщения</translation>
+        <translation>Получить входящие сообщения</translation>
     </message>
     <message>
         <source>Rename the selected contact</source>
-        <translation type="obsolete">Переименовать выбранный контакт</translation>
+        <translation>Переименовать выбранный контакт</translation>
     </message>
     <message>
         <source>Log on to the selected transport</source>
-        <translation type="obsolete">Подключить выбранный транспорт</translation>
+        <translation>Подключить выбранный транспорт</translation>
     </message>
     <message>
         <source>Common actions</source>
-        <translation type="obsolete">Общие действия</translation>
+        <translation>Общие действия</translation>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="obsolete">Прокрутить вверх</translation>
+        <translation>Прокрутить вверх</translation>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="obsolete">Прокрутить вниз</translation>
+        <translation>Прокрутить вниз</translation>
     </message>
     <message>
         <source>Close the current window/tab</source>
-        <translation type="obsolete">Закрыть текущее окно/таб</translation>
+        <translation>Закрыть текущее окно/таб</translation>
     </message>
     <message>
         <source>Open the message history</source>
-        <translation type="obsolete">Открыть историю сообщений</translation>
+        <translation>Открыть историю сообщений</translation>
     </message>
     <message>
         <source>Show the user info of the contact</source>
-        <translation type="obsolete">Показать vCard контакта</translation>
+        <translation>Показать vCard контакта</translation>
     </message>
     <message>
         <source>Shortcuts available from outside of the application</source>
-        <translation type="obsolete">Программа</translation>
+        <translation>Программа</translation>
     </message>
     <message>
         <source>Show/hide the application</source>
-        <translation type="obsolete">Показать/скрыть программу</translation>
+        <translation>Показать/скрыть программу</translation>
     </message>
     <message>
         <source>Bring the application to front</source>
-        <translation type="obsolete">Вывести программу на передний план</translation>
+        <translation>Вывести программу на передний план</translation>
     </message>
     <message>
         <source>Send new message</source>
-        <translation type="obsolete">Создать сообщение</translation>
+        <translation>Создать сообщение</translation>
     </message>
     <message>
         <source>Shortcuts in the message dialog</source>
-        <translation type="obsolete">Окно сообщения</translation>
+        <translation>Окно сообщения</translation>
     </message>
     <message>
         <source>Send the message</source>
-        <translation type="obsolete">Отправить сообщение</translation>
+        <translation>Отправить сообщение</translation>
     </message>
     <message>
         <source>Shortcuts in the status dialog</source>
-        <translation type="obsolete">Окно установки статуса</translation>
+        <translation>Окно установки статуса</translation>
     </message>
     <message>
         <source>Set the status message</source>
-        <translation type="obsolete">Установить статус</translation>
+        <translation>Установить статус</translation>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
-        <translation type="obsolete">Окно обзора сервисов</translation>
+        <translation>Окно обзора сервисов</translation>
     </message>
     <message>
         <source>Action List</source>
-        <translation type="obsolete">Список действий</translation>
+        <translation>Список действий</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="obsolete">Настройка</translation>
+        <translation>Настройка</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">Статус</translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="obsolete">Оповещение события</translation>
+        <translation>Оповещение события</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="obsolete">О Psi</translation>
+        <translation>О Psi</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="obsolete">О Qt</translation>
+        <translation>О Qt</translation>
     </message>
     <message>
         <source>QCA key store diag</source>
-        <translation type="obsolete">Диагностика ключа защиты памяти</translation>
+        <translation>Диагностика ключа защиты памяти</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation type="obsolete">Диагностика плагинов безопасности</translation>
+        <translation>Диагностика плагинов безопасности</translation>
     </message>
     <message>
         <source>Open Help</source>
-        <translation type="obsolete">Открыть справку</translation>
+        <translation>Открыть справку</translation>
     </message>
     <message>
         <source>Open Home Page</source>
-        <translation type="obsolete">Открыть домашнюю страницу</translation>
+        <translation>Открыть домашнюю страницу</translation>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation type="obsolete">Открыть Wiki</translation>
+        <translation>Открыть Wiki</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation type="obsolete">Войти в конференцию обсуждения Psi</translation>
+        <translation>Войти в конференцию обсуждения Psi</translation>
     </message>
     <message>
         <source>README</source>
-        <translation type="obsolete">Инструкции</translation>
+        <translation>Инструкции</translation>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation type="obsolete">Сообщить об ошибке</translation>
+        <translation>Сообщить об ошибке</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation type="obsolete">Советы</translation>
+        <translation>Советы</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="obsolete">Настройки аккаунта</translation>
+        <translation>Настройки аккаунта</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="obsolete">Добавить контакт</translation>
+        <translation>Добавить контакт</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="obsolete">Сменить профиль</translation>
+        <translation>Сменить профиль</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="obsolete">Обзор сервисов</translation>
+        <translation>Обзор сервисов</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="obsolete">Передача файлов</translation>
+        <translation>Передача файлов</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="obsolete">Войти в конференцию</translation>
+        <translation>Войти в конференцию</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="obsolete">Создать сообщение</translation>
+        <translation>Создать сообщение</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="obsolete">Включить звуки</translation>
+        <translation>Включить звуки</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="obsolete">Выход</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="obsolete">Панель инструментов</translation>
+        <translation>Панель инструментов</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="obsolete">Консоль XML</translation>
+        <translation>Консоль XML</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="obsolete">Показывать песню</translation>
+        <translation>Показывать песню</translation>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation type="obsolete">Показывать агенты</translation>
+        <translation>Показывать агенты</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="obsolete">Показывать контакты &quot;отсутствую&quot;</translation>
+        <translation>Показывать контакты &quot;отсутствую&quot;</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="obsolete">Показывать скрытые контакты</translation>
+        <translation>Показывать скрытые контакты</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="obsolete">Показывать контакты &quot;не в сети&quot;</translation>
+        <translation>Показывать контакты &quot;не в сети&quot;</translation>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="obsolete">Показывать свой контакт</translation>
+        <translation>Показывать свой контакт</translation>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="obsolete">Показывать статусные сообщения</translation>
+        <translation>Показывать статусные сообщения</translation>
     </message>
     <message>
         <source>Status All</source>
-        <translation type="obsolete">Установить статус</translation>
+        <translation>Установить статус</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation type="obsolete">Статус &quot;отсутствую&quot;</translation>
+        <translation>Статус &quot;отсутствую&quot;</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation type="obsolete">Статус &quot;готов поболтать&quot;</translation>
+        <translation>Статус &quot;готов поболтать&quot;</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation type="obsolete">Статус &quot;не беспокоить&quot;</translation>
+        <translation>Статус &quot;не беспокоить&quot;</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation type="obsolete">Статус &quot;невидимый&quot;</translation>
+        <translation>Статус &quot;невидимый&quot;</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation type="obsolete">Статус &quot;отключен&quot;</translation>
+        <translation>Статус &quot;отключен&quot;</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation type="obsolete">Статус &quot;доступен&quot;</translation>
+        <translation>Статус &quot;доступен&quot;</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation type="obsolete">Статус &quot;недоступен&quot;</translation>
+        <translation>Статус &quot;недоступен&quot;</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="obsolete">Показывать группы</translation>
+        <translation>Показывать группы</translation>
     </message>
 </context>
 <context>
@@ -11090,7 +11090,7 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="227"/>
         <source>%1 left (session: %2).</source>
-        <translation>%1 ушёл (сессия: %2).</translation>
+        <translation>%1 ушел (сессия: %2).</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="262"/>
