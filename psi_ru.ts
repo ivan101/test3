@@ -1366,6 +1366,112 @@ Make sure you enter a fully qualified Jabber ID.</source>
     </message>
 </context>
 <context>
+    <name>CertificateDisplay</name>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplay.ui" line="13"/>
+        <source>Certificate Information</source>
+        <translation>Информация о сертификате</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplay.ui" line="41"/>
+        <source>Certificate Validation:</source>
+        <translation>Проверка сертификата:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplay.ui" line="55"/>
+        <source>Valid From:</source>
+        <translation>Действителен от:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplay.ui" line="69"/>
+        <source>Valid Until:</source>
+        <translation>Действителен до:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplay.ui" line="83"/>
+        <source>Serial Number:</source>
+        <translation>Серийный номер:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplay.ui" line="167"/>
+        <source>Close</source>
+        <translation>Закрыть</translation>
+    </message>
+</context>
+<context>
+    <name>CertificateDisplayDialog</name>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="43"/>
+        <source>The certificate is valid.</source>
+        <translation>Сертификат подходит.</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="47"/>
+        <source>The certificate is NOT valid!</source>
+        <translation>Сертификат НЕ подходит.</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="47"/>
+        <source>Reason: %1.</source>
+        <translation>Причина: %1.</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="63"/>
+        <source>Subject Details:</source>
+        <translation>Тема:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="64"/>
+        <source>Issuer Details:</source>
+        <translation>Выпущен:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="78"/>
+        <source>Organization:</source>
+        <translation>Организация:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="79"/>
+        <source>Organizational unit:</source>
+        <translation>Подразделение:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="80"/>
+        <source>Locality:</source>
+        <translation>Местонахождение:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="81"/>
+        <source>State:</source>
+        <translation>Штат:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="82"/>
+        <source>Country:</source>
+        <translation>Страна:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="83"/>
+        <source>Common name:</source>
+        <translation>Полное имя:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="84"/>
+        <source>Domain name:</source>
+        <translation>Имя домена:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="85"/>
+        <source>XMPP name:</source>
+        <translation>Имя XMPP:</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="86"/>
+        <source>Email:</source>
+        <translation>Email:</translation>
+    </message>
+</context>
+<context>
     <name>ChangePassword</name>
     <message>
         <location filename="../src/changepw.ui" line="137"/>
@@ -3318,7 +3424,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="934"/>
         <source>Unable to join groupchat.  Reason: %1</source>
-        <translation>Невозможно войти в конференцию. Причина: %1</translation>
+        <translation type="obsolete">Невозможно войти в конференцию. Причина: %1</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="936"/>
@@ -3801,27 +3907,27 @@ Are you sure you want to do this?</source>
 <context>
     <name>HttpConnect</name>
     <message>
-        <location filename="../cutestuff/network/httpconnect.cpp" line="304"/>
+        <location filename="../iris/src/xmpp/cutestuff/httpconnect.cpp" line="301"/>
         <source>Access denied</source>
         <translation>Доступ отвергнут</translation>
     </message>
     <message>
-        <location filename="../cutestuff/network/httpconnect.cpp" line="296"/>
+        <location filename="../iris/src/xmpp/cutestuff/httpconnect.cpp" line="293"/>
         <source>Authentication failed</source>
         <translation>Аутентификация не прошла</translation>
     </message>
     <message>
-        <location filename="../cutestuff/network/httpconnect.cpp" line="308"/>
+        <location filename="../iris/src/xmpp/cutestuff/httpconnect.cpp" line="305"/>
         <source>Connection refused</source>
         <translation>Соединение отклонено</translation>
     </message>
     <message>
-        <location filename="../cutestuff/network/httpconnect.cpp" line="300"/>
+        <location filename="../iris/src/xmpp/cutestuff/httpconnect.cpp" line="297"/>
         <source>Host not found</source>
         <translation>Сервер не найден</translation>
     </message>
     <message>
-        <location filename="../cutestuff/network/httpconnect.cpp" line="312"/>
+        <location filename="../iris/src/xmpp/cutestuff/httpconnect.cpp" line="309"/>
         <source>Invalid reply</source>
         <translation>Неверный ответ</translation>
     </message>
@@ -3857,27 +3963,27 @@ Are you sure you want to do this?</source>
 <context>
     <name>HttpProxyPost</name>
     <message>
-        <location filename="../cutestuff/network/httppoll.cpp" line="630"/>
+        <location filename="../iris/src/xmpp/cutestuff/httppoll.cpp" line="628"/>
         <source>Access denied</source>
         <translation>Доступ отвергнут</translation>
     </message>
     <message>
-        <location filename="../cutestuff/network/httppoll.cpp" line="622"/>
+        <location filename="../iris/src/xmpp/cutestuff/httppoll.cpp" line="620"/>
         <source>Authentication failed</source>
         <translation>Аутентификация не прошла</translation>
     </message>
     <message>
-        <location filename="../cutestuff/network/httppoll.cpp" line="634"/>
+        <location filename="../iris/src/xmpp/cutestuff/httppoll.cpp" line="632"/>
         <source>Connection refused</source>
         <translation>Соединение отклонено</translation>
     </message>
     <message>
-        <location filename="../cutestuff/network/httppoll.cpp" line="626"/>
+        <location filename="../iris/src/xmpp/cutestuff/httppoll.cpp" line="624"/>
         <source>Host not found</source>
         <translation>Сервер не найден</translation>
     </message>
     <message>
-        <location filename="../cutestuff/network/httppoll.cpp" line="638"/>
+        <location filename="../iris/src/xmpp/cutestuff/httppoll.cpp" line="636"/>
         <source>Invalid reply</source>
         <translation>Неверный ответ</translation>
     </message>
@@ -4360,7 +4466,7 @@ Are you sure you want to discard them?</source>
 <context>
     <name>JT_VCard</name>
     <message>
-        <location filename="../iris/xmpp-im/xmpp_tasks.cpp" line="1037"/>
+        <location filename="../iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1037"/>
         <source>No VCard available</source>
         <translation>vCard недоступен</translation>
     </message>
@@ -4897,22 +5003,22 @@ Reason: %1</source>
     <message>
         <location filename="../src/miniclient.cpp" line="168"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation type="obsolete">&amp;Отмена</translation>
     </message>
     <message>
         <location filename="../src/miniclient.cpp" line="167"/>
         <source>Co&amp;ntinue</source>
-        <translation>П&amp;родолжить</translation>
+        <translation type="obsolete">П&amp;родолжить</translation>
     </message>
     <message>
         <location filename="../src/miniclient.cpp" line="166"/>
         <source>&amp;Details...</source>
-        <translation>&amp;Подробности...</translation>
+        <translation type="obsolete">&amp;Подробности...</translation>
     </message>
     <message>
         <location filename="../src/miniclient.cpp" line="165"/>
         <source>Reason: %1.</source>
-        <translation>Причина: %1.</translation>
+        <translation type="obsolete">Причина: %1.</translation>
     </message>
     <message>
         <location filename="../src/miniclient.cpp" line="164"/>
@@ -4927,7 +5033,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/miniclient.cpp" line="165"/>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation>Сертификат %1 не прошел проверку на аутентичность.</translation>
+        <translation type="obsolete">Сертификат %1 не прошел проверку на аутентичность.</translation>
     </message>
     <message>
         <location filename="../src/miniclient.cpp" line="247"/>
@@ -5298,6 +5404,11 @@ Details: %1</source>
         <location filename="../src/options/opt_application.ui" line="52"/>
         <source>Use left-click for menu</source>
         <translation>Вызов меню левой кнопкой мыши</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_application.ui" line="112"/>
+        <source>Check for updates on startup</source>
+        <translation>Проверка обновлений при запуске</translation>
     </message>
 </context>
 <context>
@@ -7436,12 +7547,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/psiaccount.cpp" line="1312"/>
         <source>Co&amp;ntinue</source>
-        <translation>П&amp;родолжить</translation>
+        <translation type="obsolete">П&amp;родолжить</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="1311"/>
         <source>&amp;Details...</source>
-        <translation>&amp;Подробности...</translation>
+        <translation type="obsolete">&amp;Подробности...</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="947"/>
@@ -7586,7 +7697,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/psiaccount.cpp" line="1310"/>
         <source>Reason: %1.</source>
-        <translation>Причина: %1.</translation>
+        <translation type="obsolete">Причина: %1.</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="1615"/>
@@ -7656,7 +7767,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/psiaccount.cpp" line="1310"/>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation>Сертификат %1 не прошел проверку на достоверность.</translation>
+        <translation type="obsolete">Сертификат %1 не прошел проверку на достоверность.</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="947"/>
@@ -8352,6 +8463,11 @@ This may mean you are already running another instance of Psi. You may experienc
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
         <translation>Вам нужно настроить аккаунт для начала работы. Вы хотите зарегистрировать новый аккаунт или использовать существующий?</translation>
     </message>
+    <message>
+        <location filename="../src/psicon.cpp" line="979"/>
+        <source>Unsupported URI type</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiMain</name>
@@ -8683,7 +8799,7 @@ Would you like to activate that session now?</source>
         <translation>гость</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2725"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2712"/>
         <source>Address</source>
         <translation>Адрес</translation>
     </message>
@@ -8813,7 +8929,7 @@ Would you like to activate that session now?</source>
         <translation>Некогда болтать. Надо работать.</translation>
     </message>
     <message>
-        <location filename="../src/certutil.cpp" line="147"/>
+        <location filename="../src/Certificates/CertificateHelpers.cpp" line="135"/>
         <source>Certificate is valid.</source>
         <translation>Сертификат правильный.</translation>
     </message>
@@ -8828,7 +8944,7 @@ Would you like to activate that session now?</source>
         <translation>Выберите статус и соответствующее сообщение</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2726"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2713"/>
         <source>City</source>
         <translation>Город</translation>
     </message>
@@ -8873,7 +8989,7 @@ Would you like to activate that session now?</source>
         <translation>Любознательное</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2731"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2718"/>
         <source>Date</source>
         <translation>Дата</translation>
     </message>
@@ -8918,7 +9034,7 @@ Would you like to activate that session now?</source>
         <translation>Иначе %1 %2</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2724"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2711"/>
         <source>E-mail</source>
         <translation>E-mail</translation>
     </message>
@@ -8963,7 +9079,7 @@ Would you like to activate that session now?</source>
         <translation>Давно отсутствую</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2722"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2709"/>
         <source>First Name</source>
         <translation>Имя</translation>
     </message>
@@ -8993,7 +9109,7 @@ Would you like to activate that session now?</source>
         <translation>Расстроенное</translation>
     </message>
     <message>
-        <location filename="../src/certutil.cpp" line="157"/>
+        <location filename="../src/Certificates/CertificateHelpers.cpp" line="145"/>
         <source>General certificate validation error.</source>
         <translation>Общая ошибка проверки сертификата.</translation>
     </message>
@@ -9178,7 +9294,7 @@ Would you like to activate that session now?</source>
         <translation>В последний раз был доступен</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2723"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2710"/>
         <source>Last Name</source>
         <translation>Фамилия</translation>
     </message>
@@ -9223,7 +9339,7 @@ Would you like to activate that session now?</source>
         <translation>Сообщение</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2732"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2719"/>
         <source>Misc</source>
         <translation>Разное</translation>
     </message>
@@ -9248,7 +9364,7 @@ Would you like to activate that session now?</source>
         <translation>В кино</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2721"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2708"/>
         <source>Name</source>
         <translation>Имя</translation>
     </message>
@@ -9263,7 +9379,7 @@ Would you like to activate that session now?</source>
         <translation>Безразличное</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2719"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2706"/>
         <source>Nickname</source>
         <translation>Ник</translation>
     </message>
@@ -9328,7 +9444,7 @@ Would you like to activate that session now?</source>
         <translation>участник</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2720"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2707"/>
         <source>Password</source>
         <translation>Пароль</translation>
     </message>
@@ -9338,7 +9454,7 @@ Would you like to activate that session now?</source>
         <translation>GPG карта отсутствует</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2729"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2716"/>
         <source>Phone</source>
         <translation>Номер телефона</translation>
     </message>
@@ -9473,7 +9589,7 @@ Would you like to activate that session now?</source>
         <translation>Сонное</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2727"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2714"/>
         <source>State</source>
         <translation>Регион</translation>
     </message>
@@ -9508,12 +9624,12 @@ Would you like to activate that session now?</source>
         <translation>Удивленное</translation>
     </message>
     <message>
-        <location filename="../src/certutil.cpp" line="150"/>
+        <location filename="../src/Certificates/CertificateHelpers.cpp" line="138"/>
         <source>The hostname does not match the one the certificate was issued to.</source>
         <translation>Имя сервера не соответствует тому, на который был выписан сертификат.</translation>
     </message>
     <message>
-        <location filename="../src/certutil.cpp" line="144"/>
+        <location filename="../src/Certificates/CertificateHelpers.cpp" line="132"/>
         <source>The server did not present a certificate.</source>
         <translation>Сервер не предоставил сертификат.</translation>
     </message>
@@ -9548,12 +9664,12 @@ Would you like to activate that session now?</source>
         <translation>Неизвестная ошибка</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2730"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2717"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2718"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2705"/>
         <source>Username</source>
         <translation>Имя пользователя</translation>
     </message>
@@ -9578,9 +9694,29 @@ Would you like to activate that session now?</source>
         <translation>Взволнованное</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-im/types.cpp" line="2728"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2715"/>
         <source>Zipcode</source>
         <translation>Почтовый индекс</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="17"/>
+        <source>The %1 certificate failed the authenticity test.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="20"/>
+        <source>&amp;Details...</source>
+        <translation type="unfinished">&amp;Подробности...</translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="21"/>
+        <source>&amp;Connect anyway</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="22"/>
+        <source>&amp;Trust this certificate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9681,32 +9817,32 @@ Reason: %1</source>
     <message>
         <location filename="../src/sslcert.ui" line="41"/>
         <source>Certificate Validation:</source>
-        <translation>Проверка сертификата:</translation>
+        <translation type="obsolete">Проверка сертификата:</translation>
     </message>
     <message>
         <location filename="../src/sslcert.ui" line="167"/>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation type="obsolete">Закрыть</translation>
     </message>
     <message>
         <location filename="../src/sslcert.ui" line="83"/>
         <source>Serial Number:</source>
-        <translation>Серийный номер:</translation>
+        <translation type="obsolete">Серийный номер:</translation>
     </message>
     <message>
         <location filename="../src/sslcert.ui" line="13"/>
         <source>SSL Cert</source>
-        <translation>Сертификат SSL</translation>
+        <translation type="obsolete">Сертификат SSL</translation>
     </message>
     <message>
         <location filename="../src/sslcert.ui" line="55"/>
         <source>Valid From:</source>
-        <translation>Действителен от:</translation>
+        <translation type="obsolete">Действителен от:</translation>
     </message>
     <message>
         <location filename="../src/sslcert.ui" line="69"/>
         <source>Valid Until:</source>
-        <translation>Действителен до:</translation>
+        <translation type="obsolete">Действителен до:</translation>
     </message>
 </context>
 <context>
@@ -9714,72 +9850,72 @@ Reason: %1</source>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="54"/>
         <source>Common name:</source>
-        <translation>Полное имя:</translation>
+        <translation type="obsolete">Полное имя:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="53"/>
         <source>Country:</source>
-        <translation>Страна:</translation>
+        <translation type="obsolete">Страна:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="55"/>
         <source>Domain name:</source>
-        <translation>Имя домена:</translation>
+        <translation type="obsolete">Имя домена:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="57"/>
         <source>Email:</source>
-        <translation>Email:</translation>
+        <translation type="obsolete">Email:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="89"/>
         <source>Issuer Details:</source>
-        <translation>Выпущен:</translation>
+        <translation type="obsolete">Выпущен:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="51"/>
         <source>Locality:</source>
-        <translation>Местонахождение:</translation>
+        <translation type="obsolete">Местонахождение:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="49"/>
         <source>Organization:</source>
-        <translation>Организация:</translation>
+        <translation type="obsolete">Организация:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="50"/>
         <source>Organizational unit:</source>
-        <translation>Подразделение:</translation>
+        <translation type="obsolete">Подразделение:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="72"/>
         <source>Reason: %1.</source>
-        <translation>Причина: %1.</translation>
+        <translation type="obsolete">Причина: %1.</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="52"/>
         <source>State:</source>
-        <translation>Штат:</translation>
+        <translation type="obsolete">Штат:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="88"/>
         <source>Subject Details:</source>
-        <translation>Тема:</translation>
+        <translation type="obsolete">Тема:</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="72"/>
         <source>The certificate is NOT valid!</source>
-        <translation>Сертификат НЕ подходит.</translation>
+        <translation type="obsolete">Сертификат НЕ подходит.</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="68"/>
         <source>The certificate is valid.</source>
-        <translation>Сертификат подходит.</translation>
+        <translation type="obsolete">Сертификат подходит.</translation>
     </message>
     <message>
         <location filename="../src/sslcertdlg.cpp" line="56"/>
         <source>XMPP name:</source>
-        <translation>Имя XMPP:</translation>
+        <translation type="obsolete">Имя XMPP:</translation>
     </message>
 </context>
 <context>
@@ -9956,291 +10092,291 @@ Reason: %1</source>
     <name>Shortcuts</name>
     <message>
         <source>Shortcuts in the chat dialog</source>
-        <translation>Окно чата</translation>
+        <translation type="obsolete">Окно чата</translation>
     </message>
     <message>
         <source>Switch to the next tab</source>
-        <translation>Перейти к следующему табу</translation>
+        <translation type="obsolete">Перейти к следующему табу</translation>
     </message>
     <message>
         <source>Switch to the previous tab</source>
-        <translation>Перейти к предыдущему табу</translation>
+        <translation type="obsolete">Перейти к предыдущему табу</translation>
     </message>
     <message>
         <source>Find text</source>
-        <translation>Найти текст</translation>
+        <translation type="obsolete">Найти текст</translation>
     </message>
     <message>
         <source>Sends the message</source>
-        <translation>Отправить сообщение</translation>
+        <translation type="obsolete">Отправить сообщение</translation>
     </message>
     <message>
         <source>Clear the text</source>
-        <translation>Очистить текст</translation>
+        <translation type="obsolete">Очистить текст</translation>
     </message>
     <message>
         <source>Shortcuts in the contactlist</source>
-        <translation>Ростер</translation>
+        <translation type="obsolete">Ростер</translation>
     </message>
     <message>
         <source>Assign a custom avatar to the selected contact</source>
-        <translation>Установить аватар для выбранного контакта</translation>
+        <translation type="obsolete">Установить аватар для выбранного контакта</translation>
     </message>
     <message>
         <source>Remove custom avatar from the selected contact</source>
-        <translation>Удалить аватар для выбранного контакта</translation>
+        <translation type="obsolete">Удалить аватар для выбранного контакта</translation>
     </message>
     <message>
         <source>Delete the selected contact</source>
-        <translation>Удалить выбранный контакт</translation>
+        <translation type="obsolete">Удалить выбранный контакт</translation>
     </message>
     <message>
         <source>Open a chat to the selected contact</source>
-        <translation>Открыть чат для выбранного контакта</translation>
+        <translation type="obsolete">Открыть чат для выбранного контакта</translation>
     </message>
     <message>
         <source>Send a message to the selected contact</source>
-        <translation>Отправить сообщение для выбранного контакта</translation>
+        <translation type="obsolete">Отправить сообщение для выбранного контакта</translation>
     </message>
     <message>
         <source>Receive incoming event</source>
-        <translation>Получить входящие сообщения</translation>
+        <translation type="obsolete">Получить входящие сообщения</translation>
     </message>
     <message>
         <source>Rename the selected contact</source>
-        <translation>Переименовать выбранный контакт</translation>
+        <translation type="obsolete">Переименовать выбранный контакт</translation>
     </message>
     <message>
         <source>Log on to the selected transport</source>
-        <translation>Подключить выбранный транспорт</translation>
+        <translation type="obsolete">Подключить выбранный транспорт</translation>
     </message>
     <message>
         <source>Common actions</source>
-        <translation>Общие действия</translation>
+        <translation type="obsolete">Общие действия</translation>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation>Прокрутить вверх</translation>
+        <translation type="obsolete">Прокрутить вверх</translation>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation>Прокрутить вниз</translation>
+        <translation type="obsolete">Прокрутить вниз</translation>
     </message>
     <message>
         <source>Close the current window/tab</source>
-        <translation>Закрыть текущее окно/таб</translation>
+        <translation type="obsolete">Закрыть текущее окно/таб</translation>
     </message>
     <message>
         <source>Open the message history</source>
-        <translation>Открыть историю сообщений</translation>
+        <translation type="obsolete">Открыть историю сообщений</translation>
     </message>
     <message>
         <source>Show the user info of the contact</source>
-        <translation>Показать vCard контакта</translation>
+        <translation type="obsolete">Показать vCard контакта</translation>
     </message>
     <message>
         <source>Shortcuts available from outside of the application</source>
-        <translation>Программа</translation>
+        <translation type="obsolete">Программа</translation>
     </message>
     <message>
         <source>Show/hide the application</source>
-        <translation>Показать/скрыть программу</translation>
+        <translation type="obsolete">Показать/скрыть программу</translation>
     </message>
     <message>
         <source>Bring the application to front</source>
-        <translation>Вывести программу на передний план</translation>
+        <translation type="obsolete">Вывести программу на передний план</translation>
     </message>
     <message>
         <source>Send new message</source>
-        <translation>Создать сообщение</translation>
+        <translation type="obsolete">Создать сообщение</translation>
     </message>
     <message>
         <source>Shortcuts in the message dialog</source>
-        <translation>Окно сообщения</translation>
+        <translation type="obsolete">Окно сообщения</translation>
     </message>
     <message>
         <source>Send the message</source>
-        <translation>Отправить сообщение</translation>
+        <translation type="obsolete">Отправить сообщение</translation>
     </message>
     <message>
         <source>Shortcuts in the status dialog</source>
-        <translation>Окно установки статуса</translation>
+        <translation type="obsolete">Окно установки статуса</translation>
     </message>
     <message>
         <source>Set the status message</source>
-        <translation>Установить статус</translation>
+        <translation type="obsolete">Установить статус</translation>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
-        <translation>Окно обзора сервисов</translation>
+        <translation type="obsolete">Окно обзора сервисов</translation>
     </message>
     <message>
         <source>Action List</source>
-        <translation>Список действий</translation>
+        <translation type="obsolete">Список действий</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Настройка</translation>
+        <translation type="obsolete">Настройка</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Статус</translation>
+        <translation type="obsolete">Статус</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation>Оповещение события</translation>
+        <translation type="obsolete">Оповещение события</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation>О Psi</translation>
+        <translation type="obsolete">О Psi</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>О Qt</translation>
+        <translation type="obsolete">О Qt</translation>
     </message>
     <message>
         <source>QCA key store diag</source>
-        <translation>Диагностика ключа защиты памяти</translation>
+        <translation type="obsolete">Диагностика ключа защиты памяти</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation>Диагностика плагинов безопасности</translation>
+        <translation type="obsolete">Диагностика плагинов безопасности</translation>
     </message>
     <message>
         <source>Open Help</source>
-        <translation>Открыть справку</translation>
+        <translation type="obsolete">Открыть справку</translation>
     </message>
     <message>
         <source>Open Home Page</source>
-        <translation>Открыть домашнюю страницу</translation>
+        <translation type="obsolete">Открыть домашнюю страницу</translation>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation>Открыть Wiki</translation>
+        <translation type="obsolete">Открыть Wiki</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation>Войти в конференцию обсуждения Psi</translation>
+        <translation type="obsolete">Войти в конференцию обсуждения Psi</translation>
     </message>
     <message>
         <source>README</source>
-        <translation>Инструкции</translation>
+        <translation type="obsolete">Инструкции</translation>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation>Сообщить об ошибке</translation>
+        <translation type="obsolete">Сообщить об ошибке</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation>Советы</translation>
+        <translation type="obsolete">Советы</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Настройки аккаунта</translation>
+        <translation type="obsolete">Настройки аккаунта</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation>Добавить контакт</translation>
+        <translation type="obsolete">Добавить контакт</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation>Сменить профиль</translation>
+        <translation type="obsolete">Сменить профиль</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Обзор сервисов</translation>
+        <translation type="obsolete">Обзор сервисов</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation>Передача файлов</translation>
+        <translation type="obsolete">Передача файлов</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation>Войти в конференцию</translation>
+        <translation type="obsolete">Войти в конференцию</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation>Создать сообщение</translation>
+        <translation type="obsolete">Создать сообщение</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation>Включить звуки</translation>
+        <translation type="obsolete">Включить звуки</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Выход</translation>
+        <translation type="obsolete">Выход</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation>Панель инструментов</translation>
+        <translation type="obsolete">Панель инструментов</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation>Консоль XML</translation>
+        <translation type="obsolete">Консоль XML</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation>Показывать песню</translation>
+        <translation type="obsolete">Показывать песню</translation>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation>Показывать агенты</translation>
+        <translation type="obsolete">Показывать агенты</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation>Показывать контакты &quot;отсутствую&quot;</translation>
+        <translation type="obsolete">Показывать контакты &quot;отсутствую&quot;</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation>Показывать скрытые контакты</translation>
+        <translation type="obsolete">Показывать скрытые контакты</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation>Показывать контакты &quot;не в сети&quot;</translation>
+        <translation type="obsolete">Показывать контакты &quot;не в сети&quot;</translation>
     </message>
     <message>
         <source>Show Self</source>
-        <translation>Показывать свой контакт</translation>
+        <translation type="obsolete">Показывать свой контакт</translation>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation>Показывать статусные сообщения</translation>
+        <translation type="obsolete">Показывать статусные сообщения</translation>
     </message>
     <message>
         <source>Status All</source>
-        <translation>Установить статус</translation>
+        <translation type="obsolete">Установить статус</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation>Статус &quot;отсутствую&quot;</translation>
+        <translation type="obsolete">Статус &quot;отсутствую&quot;</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation>Статус &quot;готов поболтать&quot;</translation>
+        <translation type="obsolete">Статус &quot;готов поболтать&quot;</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation>Статус &quot;не беспокоить&quot;</translation>
+        <translation type="obsolete">Статус &quot;не беспокоить&quot;</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation>Статус &quot;невидимый&quot;</translation>
+        <translation type="obsolete">Статус &quot;невидимый&quot;</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation>Статус &quot;отключен&quot;</translation>
+        <translation type="obsolete">Статус &quot;отключен&quot;</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation>Статус &quot;доступен&quot;</translation>
+        <translation type="obsolete">Статус &quot;доступен&quot;</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation>Статус &quot;недоступен&quot;</translation>
+        <translation type="obsolete">Статус &quot;недоступен&quot;</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation>Показывать группы</translation>
+        <translation type="obsolete">Показывать группы</translation>
     </message>
 </context>
 <context>
@@ -10267,222 +10403,222 @@ Reason: %1</source>
 <context>
     <name>Stanza::Error::Private</name>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="262"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
         <translation>Сервер или сервис, указанные как часть JID, временно недоступны.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="261"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="261"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
         <translation>Сервер или сервис, указанные как часть JID, не найдены.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="247"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="247"/>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
         <translation>Доступ не может быть разрешен, пока есть открытый ресурс или сеанс с таким же именем или адресом.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="246"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="246"/>
         <source>Bad request</source>
         <translation>Неверный запрос</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="247"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="247"/>
         <source>Conflict</source>
         <translation>Конфликт</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="248"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="248"/>
         <source>Feature not implemented</source>
         <translation>Не реализовано</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="249"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="249"/>
         <source>Forbidden</source>
         <translation>Доступ запрещен</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="250"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="250"/>
         <source>Gone</source>
         <translation>Ушел</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="251"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="251"/>
         <source>Internal server error</source>
         <translation>Внутренняя ошибка сервера</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="252"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="252"/>
         <source>Item not found</source>
         <translation>Элемент не найден</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="253"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="253"/>
         <source>JID malformed</source>
         <translation>Неверный JID</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="254"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
         <source>Not acceptable</source>
         <translation>Неприемлемо</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="255"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
         <source>Not allowed</source>
         <translation>Не позволено</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="256"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="256"/>
         <source>Not authorized</source>
         <translation>Не авторизован</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="257"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="257"/>
         <source>Payment required</source>
         <translation>Платная услуга</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="258"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="258"/>
         <source>Recipient unavailable</source>
         <translation>Получатель недоступен</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="259"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="259"/>
         <source>Redirect</source>
         <translation>Перенаправление</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="260"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="260"/>
         <source>Registration required</source>
         <translation>Требуется регистрация</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="261"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="261"/>
         <source>Remote server not found</source>
         <translation>Сервер не найден</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="262"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
         <source>Remote server timeout</source>
         <translation>Таймаут сервера</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="263"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="263"/>
         <source>Resource constraint</source>
         <translation>Недостаточно ресурсов</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="264"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="264"/>
         <source>Service unavailable</source>
         <translation>Сервис недоступен</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="265"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="265"/>
         <source>Subscription required</source>
         <translation>Требуется подписка</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="252"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="252"/>
         <source>The addressed JID or item requested cannot be found.</source>
         <translation>Адресуемый JID или запрашиваемый элемент не найден.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="266"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
         <translation>Неопределенное условие в запросе.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="248"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="248"/>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
         <translation>Запрашиваемая функциональность не реализована получателем или сервером и, соответственно, не может быть выполнена.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="258"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="258"/>
         <source>The intended recipient is temporarily unavailable.</source>
         <translation>Указанный получатель временно недоступен.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="250"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="250"/>
         <source>The recipient or server can no longer be contacted at this address.</source>
         <translation>Получатель или сервер не может больше контактировать с этим адресом.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="255"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
         <source>The recipient or server does not allow any entity to perform the action.</source>
         <translation>Получатель или сервер не принимают данных для этого действия.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="259"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="259"/>
         <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
         <translation>Ваш запрос будет перенаправлен.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="254"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
         <translation>Данные приняты, но не могут быть обработаны получателем или сервером (например, из-за политики фильтрации слов).</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="267"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
         <translation>Сервер или получатель не могут обработать запрос.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="249"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="249"/>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
         <translation>Запрашиваемый элемент не обладает необходимыми разрешениями для выполнения действия.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="265"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="265"/>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
         <translation>Для выполнения запроса требуется подписаться на службу.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="257"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="257"/>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
         <translation>Данная услуга является платной.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="260"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="260"/>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
         <translation>Запрос требует регистрации.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="246"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="246"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
         <translation>Отправитель отправил испорченный XML, который невозможно обработать.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="256"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="256"/>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
         <translation>Отправитель должен предоставить правильное удостоверение для обработки этого действия.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="253"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="253"/>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
         <translation>Адрес XMPP (например, значение параметра &apos;to&apos;) не соответствует синтаксису схемы адресации.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="251"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="251"/>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
         <translation>Сервер не может выполнить операцию в связи с ошибками настройки или другими неизвестными внутренними ошибками.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="264"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="264"/>
         <source>The server or recipient does not currently provide the requested service.</source>
         <translation>Нет запрошенной службы на сервере или у получателя.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="263"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="263"/>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
         <translation>Недостаточно ресурсов на сервере или у получателя для выполнения запроса.</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="266"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
         <source>Undefined condition</source>
         <translation>Неопределенное условие</translation>
     </message>
     <message>
-        <location filename="../iris/xmpp-core/xmpp_stanza.cpp" line="267"/>
+        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
         <source>Unexpected request</source>
         <translation>Неверный запрос</translation>
     </message>
@@ -10629,7 +10765,7 @@ Reason: %1</source>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../iris/xmpp-im/xmpp_task.cpp" line="165"/>
+        <location filename="../iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="165"/>
         <source>Disconnected</source>
         <translation>Отключен</translation>
     </message>
