@@ -6263,12 +6263,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_iconset.cpp" line="717"/>
         <source>Moods</source>
-        <translation>Настроение</translation>
+        <translation>Настроения</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset.cpp" line="717"/>
         <source>Select your mood iconset</source>
-        <translation>Выбрать иконку настроения</translation>
+        <translation>Выбрать иконкки настроений</translation>
     </message>
 </context>
 <context>
@@ -9983,7 +9983,6 @@ Reason: %1</source>
     <message>
         <source>Shortcuts in the contactlist</source>
         <translation>Ростер</translation>
-        <translation>Ростер</translation>
     </message>
     <message>
         <source>Assign a custom avatar to the selected contact</source>
@@ -10077,171 +10076,171 @@ Reason: %1</source>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Окно обзора сервисов</translation>
     </message>
-	<message>
+    <message>
         <source>Action List</source>
         <translation>Список действий</translation>
     </message>
-	<message>
+    <message>
         <source>Options</source>
         <translation>Настройка</translation>
     </message>
-	<message>
+    <message>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
-	<message>
+    <message>
         <source>Event Notifier</source>
         <translation>Оповещение события</translation>
     </message>
-	<message>
+    <message>
         <source>About Psi</source>
         <translation>О Psi</translation>
     </message>
-	<message>
+    <message>
         <source>About Qt</source>
         <translation>О Qt</translation>
     </message>
-	<message>
+    <message>
         <source>QCA key store diag</source>
         <translation>Диагностика ключа защиты памяти</translation>
     </message>
-	<message>
+    <message>
         <source>QCA plugin diag</source>
         <translation>Диагностика плагинов безопасности</translation>
     </message>
-	<message>
+    <message>
         <source>Open Help</source>
         <translation>Открыть справку</translation>
     </message>
-	<message>
+    <message>
         <source>Open Home Page</source>
         <translation>Открыть домашнюю страницу</translation>
     </message>
-	<message>
+    <message>
         <source>Open Wiki</source>
         <translation>Открыть Wiki</translation>
     </message>
-	<message>
+    <message>
         <source>Help Psi MUC</source>
         <translation>Войти в конференцию обсуждения Psi</translation>
     </message>
-	<message>
+    <message>
         <source>README</source>
         <translation>Инструкции</translation>
     </message>
-	<message>
+    <message>
         <source>Report Bug</source>
         <translation>Сообщить об ошибке</translation>
     </message>
-	<message>
+    <message>
         <source>Tips</source>
         <translation>Советы</translation>
     </message>
-	<message>
+    <message>
         <source>Account Setup</source>
         <translation>Настройки аккаунта</translation>
     </message>
-	<message>
+    <message>
         <source>Add Contact</source>
         <translation>Добавить контакт</translation>
     </message>
-	<message>
+    <message>
         <source>Change Profile</source>
         <translation>Сменить профиль</translation>
     </message>
-	<message>
+    <message>
         <source>Service Discovery</source>
         <translation>Обзор сервисов</translation>
     </message>
-	<message>
+    <message>
         <source>File Transfer</source>
         <translation>Передача файлов</translation>
     </message>
-	<message>
+    <message>
         <source>Join Group Chat</source>
         <translation>Войти в конференцию</translation>
     </message>
-	<message>
+    <message>
         <source>New Message</source>
         <translation>Создать сообщение</translation>
     </message>
-	<message>
+    <message>
         <source>Play Sounds</source>
         <translation>Включить звуки</translation>
     </message>
-	<message>
+    <message>
         <source>Quit</source>
         <translation>Выход</translation>
     </message>
-	<message>
+    <message>
         <source>Toolbars</source>
         <translation>Панель инструментов</translation>
     </message>
-	<message>
+    <message>
         <source>XML Console</source>
         <translation>Консоль XML</translation>
     </message>
-	<message>
+    <message>
         <source>Publish Tune</source>
         <translation>Показывать песню</translation>
     </message>
-	<message>
+    <message>
         <source>Show Agents</source>
         <translation>Показывать агенты</translation>
     </message>
-	<message>
+    <message>
         <source>Show Away Contacts</source>
-        <translation>Показывать контакты "отсутствую"</translation>
+        <translation>Показывать контакты &quot;отсутствую&quot;</translation>
     </message>
-	<message>
+    <message>
         <source>Show Hidden Contacts</source>
         <translation>Показывать скрытые контакты</translation>
     </message>
-	<message>
+    <message>
         <source>Show Offline Contacts</source>
-        <translation>Показывать контакты "не в сети"</translation>
+        <translation>Показывать контакты &quot;не в сети&quot;</translation>
     </message>
-	<message>
+    <message>
         <source>Show Self</source>
         <translation>Показывать свой контакт</translation>
     </message>
-	<message>
+    <message>
         <source>Show Status Message</source>
         <translation>Показывать статусные сообщения</translation>
     </message>
-	<message>
+    <message>
         <source>Status All</source>
         <translation>Установить статус</translation>
     </message>
-	<message>
+    <message>
         <source>Status Away</source>
-        <translation>Статус "отсутствую"</translation>
+        <translation>Статус &quot;отсутствую&quot;</translation>
     </message>
-	<message>
+    <message>
         <source>Status Chat</source>
-        <translation>Статус "готов поболтать"</translation>
+        <translation>Статус &quot;готов поболтать&quot;</translation>
     </message>
-	<message>
+    <message>
         <source>Status DND</source>
-        <translation>Статус "не беспокоить"</translation>
+        <translation>Статус &quot;не беспокоить&quot;</translation>
     </message>
-	<message>
+    <message>
         <source>Status Invisible</source>
-        <translation>Статус "невидимый"</translation>
+        <translation>Статус &quot;невидимый&quot;</translation>
     </message>
-	<message>
+    <message>
         <source>Status Offline</source>
-        <translation>Статус "отключен"</translation>
+        <translation>Статус &quot;отключен&quot;</translation>
     </message>
-	<message>
+    <message>
         <source>Status Online</source>
-        <translation>Статус "доступен"</translation>
+        <translation>Статус &quot;доступен&quot;</translation>
     </message>
-	<message>
+    <message>
         <source>Status XA</source>
-        <translation>Статус "недоступен"</translation>
+        <translation>Статус &quot;недоступен&quot;</translation>
     </message>
-	<message>
+    <message>
         <source>View Groups</source>
         <translation>Показывать группы</translation>
     </message>
