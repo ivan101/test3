@@ -3528,7 +3528,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1109"/>
         <source>You have been removed from the room due to an affiliation change</source>
-        <translation>Вы удалены из конференции в связи с изменением членства</translation>
+        <translation>Вы удалены из конференции в связи с изменением ранга</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="774"/>
@@ -3568,7 +3568,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1343"/>
         <source>You have been removed from the room due to an affiliation change by %1</source>
-        <translation>Вы удалены из конференции в связи с изменением членства: %1</translation>
+        <translation>Вы удалены из конференции в связи с изменением ранга: %1</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1351"/>
@@ -3591,7 +3591,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/gcuserview.cpp" line="426"/>
         <source>Change affiliation</source>
-        <translation>Изменить членство</translation>
+        <translation>Изменить ранг</translation>
     </message>
     <message>
         <location filename="../src/gcuserview.cpp" line="411"/>
@@ -8935,7 +8935,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/userlist.cpp" line="578"/>
         <source>Affiliation: %1</source>
-        <translation>Членство: %1</translation>
+        <translation>Ранг: %1</translation>
     </message>
     <message>
         <location filename="../src/moodcatalog.cpp" line="58"/>
