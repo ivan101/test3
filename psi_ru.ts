@@ -645,7 +645,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="410"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Невозможно включить шифрование SSL/TLS.  Модуль не найден.</translation>
+        <translation>Невозможно включить шифрование SSL/TLS. Модуль не найден.</translation>
     </message>
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="235"/>
@@ -975,6 +975,11 @@ Reason: %1</source>
         <source>You have succesfully registered your account with Jabber ID &apos;%1&apos;</source>
         <translation>Вы успешно зарегистрировали аккаунт с Jabber ID &apos;%1&apos;</translation>
     </message>
+    <message>
+        <location filename="../src/accountregdlg.cpp" line="134"/>
+        <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
+        <translation>Невозможно включить шифрование SSL/TLS. Модуль QCA2 не найден.</translation>
+    </message>
 </context>
 <context>
     <name>AccountRemove</name>
@@ -1075,6 +1080,52 @@ Reason: %1</source>
         <location filename="../src/activeprofiles_win.cpp" line="278"/>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
         <translation>Этот профиль уже используется...&lt;br&gt;пожалуйста ждите...</translation>
+    </message>
+</context>
+<context>
+    <name>Activity</name>
+    <message>
+        <location filename="../src/activity.ui" line="13"/>
+        <source>User Activity</source>
+        <translation>Выбрать занятие</translation>
+    </message>
+    <message>
+        <location filename="../src/activity.ui" line="21"/>
+        <source>General:</source>
+        <translation>Общее:</translation>
+    </message>
+    <message>
+        <location filename="../src/activity.ui" line="31"/>
+        <source>Specific:</source>
+        <translation>Конкретное:</translation>
+    </message>
+    <message>
+        <location filename="../src/activity.ui" line="41"/>
+        <source>Description:</source>
+        <translation>Описание:</translation>
+    </message>
+    <message>
+        <location filename="../src/activity.ui" line="96"/>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <location filename="../src/activity.ui" line="103"/>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+</context>
+<context>
+    <name>ActivityDlg</name>
+    <message>
+        <location filename="../src/activitydlg.cpp" line="84"/>
+        <source>&lt;unset&gt;</source>
+        <translation>&lt;убрать&gt;</translation>
+    </message>
+    <message>
+        <location filename="../src/activitydlg.cpp" line="68"/>
+        <source>Other</source>
+        <translation>Другое</translation>
     </message>
 </context>
 <context>
@@ -1207,6 +1258,11 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
         <location filename="../src/adduser.ui" line="74"/>
         <source>Service:</source>
         <translation>Сервис:</translation>
+    </message>
+    <message>
+        <location filename="../src/adduser.ui" line="16"/>
+        <source>Add Contact</source>
+        <translation>Добавление контакта</translation>
     </message>
 </context>
 <context>
@@ -1673,6 +1729,14 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>ClientStream</name>
+    <message>
+        <location filename="../iris/src/xmpp/xmpp-core/stream.cpp" line="766"/>
+        <source>Offered mechanisms: </source>
+        <translation>Предлагаемые механизмы: </translation>
+    </message>
+</context>
+<context>
     <name>ContactProfile</name>
     <message>
         <location filename="../src/contactview.cpp" line="1248"/>
@@ -2024,6 +2088,11 @@ Proceed?</source>
         <location filename="../src/contactview.cpp" line="1753"/>
         <source>You can&apos;t set a blank name.</source>
         <translation>Имя не может быть пустым.</translation>
+    </message>
+    <message>
+        <location filename="../src/contactview.cpp" line="948"/>
+        <source>Activity</source>
+        <translation>Занятие</translation>
     </message>
 </context>
 <context>
@@ -3459,7 +3528,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1109"/>
         <source>You have been removed from the room due to an affiliation change</source>
-        <translation>Вы удалены из конференции до лучших времен</translation>
+        <translation>Вы удалены из конференции в связи с изменением членства</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="774"/>
@@ -3475,6 +3544,36 @@ Reason: %1</source>
         <location filename="../src/groupchatdlg.cpp" line="941"/>
         <source>Unable to join groupchat.<byte value="x9"/>Reason: %1</source>
         <translation>Невозможно войти в конференцию. Причина: %1</translation>
+    </message>
+    <message>
+        <location filename="../src/groupchatdlg.cpp" line="929"/>
+        <source>Error: Can not parse command: </source>
+        <translation>Ошибка: Невозможно разобрать команду: </translation>
+    </message>
+    <message>
+        <location filename="../src/groupchatdlg.cpp" line="1189"/>
+        <source>An error occurred (errorcode: %1)</source>
+        <translation>Произошла ошибка (код ошибки: %1)</translation>
+    </message>
+    <message>
+        <location filename="../src/groupchatdlg.cpp" line="1326"/>
+        <source>You have been banned from the room by %1</source>
+        <translation>Вам запретили входить в данную конференцию по причине: %1</translation>
+    </message>
+    <message>
+        <location filename="../src/groupchatdlg.cpp" line="1334"/>
+        <source>You have been kicked from the room by %1</source>
+        <translation>Вас выкинули из конференции по причине: %1</translation>
+    </message>
+    <message>
+        <location filename="../src/groupchatdlg.cpp" line="1343"/>
+        <source>You have been removed from the room due to an affiliation change by %1</source>
+        <translation>Вы удалены из конференции в связи с изменением членства: %1</translation>
+    </message>
+    <message>
+        <location filename="../src/groupchatdlg.cpp" line="1351"/>
+        <source>You have been removed from the room because the room was made members only by %1</source>
+        <translation>Вы удалены. Теперь конференция доступна только для членов: %1</translation>
     </message>
 </context>
 <context>
@@ -4106,6 +4205,11 @@ Are you sure you want to do this?</source>
         <location filename="../src/options/opt_iconset_mood.ui" line="13"/>
         <source>IconsetMoodUI</source>
         <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_iconset_mood.ui" line="29"/>
+        <source>Enable mood icons</source>
+        <translation>Включить иконки настроения</translation>
     </message>
 </context>
 <context>
@@ -5645,6 +5749,11 @@ Details: %1</source>
         <location filename="../src/options/opt_events.ui" line="255"/>
         <source>When a contact changes status</source>
         <translation>Когда контакт меняет статус</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_events.ui" line="227"/>
+        <source>Show incoming message on popup</source>
+        <translation>Показывать входящее сообщение</translation>
     </message>
 </context>
 <context>
@@ -7823,7 +7932,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiaccount.cpp" line="2295"/>
         <source>Unable to login.  Ensure your account information is filled out.</source>
-        <translation>Не удается войти в сеть. Проверьте правильность ввода регистрационной информации.</translation>
+        <translation>Невозможно подключиться. Проверьте правильность ввода регистрационной информации.</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="1502"/>
@@ -7844,6 +7953,16 @@ Reason: %1.</source>
         <location filename="../src/psiaccount.cpp" line="2570"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Для выполнения операции необходимо сначала подключиться к серверу.</translation>
+    </message>
+    <message>
+        <location filename="../src/psiaccount.cpp" line="1164"/>
+        <source>Encryption Error</source>
+        <translation>Ошибка шифрования</translation>
+    </message>
+    <message>
+        <location filename="../src/psiaccount.cpp" line="1164"/>
+        <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
+        <translation>Невозможно подключиться: Шифрование включено, но QCA2 SSL/TLS модуль недоступен.</translation>
     </message>
 </context>
 <context>
@@ -8387,6 +8506,11 @@ Reason: %1.</source>
         <location filename="../src/psichatdlg.cpp" line="335"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
+    </message>
+    <message>
+        <location filename="../src/psichatdlg.cpp" line="583"/>
+        <source>Error: Can not parse command: </source>
+        <translation>Ошибка: Невозможно разобрать команду: </translation>
     </message>
 </context>
 <context>
@@ -9718,6 +9842,361 @@ Would you like to activate that session now?</source>
         <source>&amp;Trust this certificate</source>
         <translation>&amp;Доверять этому сертификату</translation>
     </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="75"/>
+        <source>Doing Chores</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="76"/>
+        <source>Buying Groceries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="77"/>
+        <source>Cleaning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="78"/>
+        <source>Cooking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="79"/>
+        <source>Doing Maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="80"/>
+        <source>Doing The Dishes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="81"/>
+        <source>Doing The Laundry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="82"/>
+        <source>Gardening</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="83"/>
+        <source>Running An Errand</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="84"/>
+        <source>Walking The Dog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="86"/>
+        <source>Drinking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="87"/>
+        <source>Having A Beer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="88"/>
+        <source>Having Coffee</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="89"/>
+        <source>Having Tea</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="92"/>
+        <source>Having A Snack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="93"/>
+        <source>Having Breakfast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="94"/>
+        <source>Having Lunch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="95"/>
+        <source>Having Dinner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="97"/>
+        <source>Exercising</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="143"/>
+        <source>Cycling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="99"/>
+        <source>Hiking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="100"/>
+        <source>Jogging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="101"/>
+        <source>Playing Sports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="102"/>
+        <source>Running</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="103"/>
+        <source>Skiing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="104"/>
+        <source>Swimming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="105"/>
+        <source>Working Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="107"/>
+        <source>Grooming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="108"/>
+        <source>At The Spa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="109"/>
+        <source>Brushing Teeth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="110"/>
+        <source>Getting A Haircut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="111"/>
+        <source>Shaving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="112"/>
+        <source>Taking A Bath</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="113"/>
+        <source>Taking A Shower</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="115"/>
+        <source>Having Appointment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="117"/>
+        <source>Inactive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="118"/>
+        <source>Day Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="119"/>
+        <source>Hanging Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="120"/>
+        <source>On Vacation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="121"/>
+        <source>Scheduled Holiday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="122"/>
+        <source>Sleeping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="124"/>
+        <source>Relaxing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="125"/>
+        <source>Gaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="126"/>
+        <source>Going Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="127"/>
+        <source>Partying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="128"/>
+        <source>Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="129"/>
+        <source>Rehearsing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="130"/>
+        <source>Shopping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="131"/>
+        <source>Socializing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="132"/>
+        <source>Sunbathing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="133"/>
+        <source>Watching TV</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="134"/>
+        <source>Watching A Movie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="136"/>
+        <source>Talking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="137"/>
+        <source>In Real Life</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="138"/>
+        <source>On The Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="139"/>
+        <source>On Video Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="141"/>
+        <source>Traveling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="142"/>
+        <source>Commuting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="144"/>
+        <source>Driving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="145"/>
+        <source>In A Car</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="146"/>
+        <source>On A Bus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="147"/>
+        <source>On A Train</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="148"/>
+        <source>On A Trip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="149"/>
+        <source>Walking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="151"/>
+        <source>Working</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="152"/>
+        <source>Coding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="153"/>
+        <source>In A Meeting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="154"/>
+        <source>Studying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="155"/>
+        <source>Writing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="158"/>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/userlist.cpp" line="503"/>
+        <source>Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RegistrationDlg</name>
@@ -11007,6 +11486,16 @@ And these work only in groupchat dialog:
         <location filename="../src/widgets/urlobject.cpp" line="68"/>
         <source>User Info</source>
         <translation>vCard</translation>
+    </message>
+    <message>
+        <location filename="../src/widgets/urlobject.cpp" line="53"/>
+        <source>Open</source>
+        <translation>Открыть</translation>
+    </message>
+    <message>
+        <location filename="../src/widgets/urlobject.cpp" line="73"/>
+        <source>Chat with</source>
+        <translation>Открыть в чате</translation>
     </message>
 </context>
 <context>
