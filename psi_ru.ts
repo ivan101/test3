@@ -3369,7 +3369,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1026"/>
         <source>online</source>
-        <translation>в сети</translation>
+        <translation>доступен</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="540"/>
@@ -5207,7 +5207,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="47"/>
         <source>Away contacts</source>
-        <translation>Отсутствующие контакты</translation>
+        <translation>Контакты со статусами &quot;Отсутствую/Недоступен&quot;</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="410"/>
@@ -5272,7 +5272,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="40"/>
         <source>Online contacts</source>
-        <translation>Контакты в сети</translation>
+        <translation>Контакты со статусом &quot;Доступен&quot;</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="16"/>
@@ -5748,7 +5748,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_sound.ui" line="48"/>
         <source>Play sounds when away/XA</source>
-        <translation>Включить звуки в режиме отсутствия и длительного отсутствия</translation>
+        <translation>Включить звуки в режимах &quot;Отсутствую&quot; и &quot;Недоступен&quot;</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="36"/>
@@ -5778,7 +5778,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_sound.ui" line="111"/>
         <source>Receive online status</source>
-        <translation>Получение статуса &quot;В сети&quot;</translation>
+        <translation>Получение статуса &quot;Доступен&quot;</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="389"/>
@@ -5846,7 +5846,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_status.ui" line="40"/>
         <source>Online</source>
-        <translation>В сети</translation>
+        <translation>Доступен</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="16"/>
@@ -6056,7 +6056,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_appearance.cpp" line="223"/>
         <source>online</source>
-        <translation>в сети</translation>
+        <translation>доступен</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.cpp" line="204"/>
@@ -8006,7 +8006,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="277"/>
         <source>Online</source>
-        <translation>В сети</translation>
+        <translation>Доступен</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="230"/>
@@ -8206,7 +8206,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="130"/>
         <source>Toggles visibility of away/xa/dnd contacts in roster</source>
-        <translation>Переключить показ контактов, которые отсутствуют или заняты</translation>
+        <translation>Переключить показ контактов со статусами  &quot;Отсутствую/Недоступен/Не бемпокоить&quot;</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="133"/>
@@ -9401,7 +9401,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/rc.cpp" line="73"/>
         <source>Online</source>
-        <translation>В сети</translation>
+        <translation>Доступен</translation>
     </message>
     <message>
         <location filename="../src/userlist.cpp" line="489"/>
