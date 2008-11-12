@@ -8856,12 +8856,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="62"/>
         <source>Anxious</source>
-        <translation>Беспокойное</translation>
+        <translation>Озабоченное</translation>
     </message>
     <message>
         <location filename="../src/moodcatalog.cpp" line="63"/>
         <source>Aroused</source>
-        <translation>Возбужденное</translation>
+        <translation>Пробужденное</translation>
     </message>
     <message>
         <location filename="../src/moodcatalog.cpp" line="64"/>
@@ -9691,7 +9691,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="118"/>
         <source>Worried</source>
-        <translation>Взволнованное</translation>
+        <translation>Беспокойное</translation>
     </message>
     <message>
         <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2715"/>
