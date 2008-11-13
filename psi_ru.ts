@@ -128,7 +128,7 @@ Copyright © 2001-2008 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Свежая версия перевода всегда тут: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;©13.11.2008</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Свежая версия перевода всегда тут: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;©14.11.2008</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="70"/>
@@ -5980,7 +5980,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_status.ui" line="28"/>
         <source>Prompt for status message when choosing</source>
-        <translation>Запрашивать сообщение при переходе в состояние</translation>
+        <translation>Запрашивать сообщение при выборе статуса</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="223"/>
@@ -6049,7 +6049,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_advanced.cpp" line="62"/>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
-        <translation>Автоматически копировать выделенный текст во входящих сообщениях и диалогах в буфер обмена</translation>
+        <translation>Автоматически копировать выделенный текст во входящих сообщениях и чатах в буфер обмена</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.cpp" line="58"/>
@@ -6079,7 +6079,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_advanced.cpp" line="26"/>
         <source>Extra uncategorized options</source>
-        <translation>Дополнительные опции</translation>
+        <translation>Некатегоризованные опции</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.cpp" line="60"/>
@@ -6750,7 +6750,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_tree.cpp" line="30"/>
         <source>Please note: This editor will change the options directly. Pressing cancel will not revert these changes.</source>
-        <translation>Пожалуйста, обратите внимание: этот редактор изменит опции непосредственно. Нажатие отмены не будет возвращать эти изменения.</translation>
+        <translation>Пожалуйста, обратите внимание: этот редактор изменит настройки непосредственно. Нажатие отмены не будет возвращать эти изменения.</translation>
     </message>
 </context>
 <context>
@@ -7094,7 +7094,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="72"/>
         <source>Incoming Presence</source>
-        <translation>Получение статусов</translation>
+        <translation>Входящие статусы</translation>
     </message>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="96"/>
@@ -7114,7 +7114,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="65"/>
         <source>Outgoing Presence</source>
-        <translation>Информация о статусе</translation>
+        <translation>Исходящие статусы</translation>
     </message>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="58"/>
@@ -8475,7 +8475,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psichatdlg.cpp" line="191"/>
         <source>Toggle Compact/Full size</source>
-        <translation>Изменить размер</translation>
+        <translation>Компактый/Полный режим</translation>
     </message>
     <message>
         <location filename="../src/psichatdlg.cpp" line="182"/>
@@ -10659,15 +10659,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Shortcuts available from outside of the application</source>
-        <translation>Программа</translation>
+        <translation>Приложение</translation>
     </message>
     <message>
         <source>Show/hide the application</source>
-        <translation>Показать/скрыть программу</translation>
+        <translation>Показать/скрыть приложение</translation>
     </message>
     <message>
         <source>Bring the application to front</source>
-        <translation>Вывести программу на передний план</translation>
+        <translation>Вывести приложение на передний план</translation>
     </message>
     <message>
         <source>Send new message</source>
@@ -10803,11 +10803,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation>Показывать агенты</translation>
+        <translation>Показывать сервисы</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation>Показывать контакты &quot;отсутствую&quot;</translation>
+        <translation>Показывать контакты &quot;отсутствую/недоступен&quot;</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
@@ -10815,7 +10815,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation>Показывать контакты &quot;не в сети&quot;</translation>
+        <translation>Показывать отключенных</translation>
     </message>
     <message>
         <source>Show Self</source>
@@ -10831,31 +10831,31 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status Away</source>
-        <translation>Статус &quot;отсутствую&quot;</translation>
+        <translation>Статус &quot;Отсутствую&quot;</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation>Статус &quot;готов поболтать&quot;</translation>
+        <translation>Статус &quot;Готов поболтать&quot;</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation>Статус &quot;не беспокоить&quot;</translation>
+        <translation>Статус &quot;Не беспокоить&quot;</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation>Статус &quot;невидимый&quot;</translation>
+        <translation>Статус &quot;Невидимый&quot;</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation>Статус &quot;отключен&quot;</translation>
+        <translation>Статус &quot;Отключен&quot;</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation>Статус &quot;доступен&quot;</translation>
+        <translation>Статус &quot;Доступен&quot;</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation>Статус &quot;недоступен&quot;</translation>
+        <translation>Статус &quot;Недоступен&quot;</translation>
     </message>
     <message>
         <source>View Groups</source>
