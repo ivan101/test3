@@ -6145,7 +6145,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_appearance.cpp" line="229"/>
         <source>do not disturb</source>
-        <translation>занят</translation>
+        <translation>не беспокоить</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.cpp" line="143"/>
@@ -8045,7 +8045,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="291"/>
         <source>DND</source>
-        <translation>Занят</translation>
+        <translation>Не беспокоить</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="280"/>
@@ -8395,7 +8395,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="288"/>
         <source>XA</source>
-        <translation>Давно отсутствую</translation>
+        <translation>Недоступен</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="187"/>
@@ -9060,7 +9060,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/rc.cpp" line="68"/>
         <source>Chat</source>
-        <translation>Чат</translation>
+        <translation>Готов поболтать</translation>
     </message>
     <message>
         <location filename="../src/rc.cpp" line="48"/>
@@ -9145,7 +9145,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/rc.cpp" line="87"/>
         <source>Do Not Disturb</source>
-        <translation>Занят</translation>
+        <translation>Не беспокоить</translation>
     </message>
     <message>
         <location filename="../src/psi_profiles.cpp" line="633"/>
@@ -9200,7 +9200,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/rc.cpp" line="82"/>
         <source>Extended Away</source>
-        <translation>Давно отсутствую</translation>
+        <translation>Недоступен</translation>
     </message>
     <message>
         <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2709"/>
