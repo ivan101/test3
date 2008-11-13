@@ -10582,6 +10582,10 @@ Reason: %1</source>
         <translation>Перейти к предыдущему табу</translation>
     </message>
     <message>
+        <source>Change to quick command mode</source>
+        <translation>Перейти в режим ввода команд</translation>
+    </message>
+    <message>
         <source>Find text</source>
         <translation>Найти текст</translation>
     </message>
