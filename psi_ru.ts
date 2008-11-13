@@ -9845,357 +9845,357 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/activitycatalog.cpp" line="75"/>
         <source>Doing Chores</source>
-        <translation type="unfinished"></translation>
+        <translation>Занимаюсь хозяйством</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="76"/>
         <source>Buying Groceries</source>
-        <translation type="unfinished"></translation>
+        <translation>Покупаю продукты</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="77"/>
         <source>Cleaning</source>
-        <translation type="unfinished"></translation>
+        <translation>Делаю уборку</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="78"/>
         <source>Cooking</source>
-        <translation type="unfinished"></translation>
+        <translation>Готовлю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="79"/>
         <source>Doing Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ремонт</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="80"/>
         <source>Doing The Dishes</source>
-        <translation type="unfinished"></translation>
+        <translation>Мою посуду</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="81"/>
         <source>Doing The Laundry</source>
-        <translation type="unfinished"></translation>
+        <translation>Стираю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="82"/>
         <source>Gardening</source>
-        <translation type="unfinished"></translation>
+        <translation>Работаю в саду</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="83"/>
         <source>Running An Errand</source>
-        <translation type="unfinished"></translation>
+        <translation>Ушел по поручению</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="84"/>
         <source>Walking The Dog</source>
-        <translation type="unfinished"></translation>
+        <translation>Гуляю с собакой</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="86"/>
         <source>Drinking</source>
-        <translation type="unfinished"></translation>
+        <translation>Пью</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="87"/>
         <source>Having A Beer</source>
-        <translation type="unfinished"></translation>
+        <translation>Пиво</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="88"/>
         <source>Having Coffee</source>
-        <translation type="unfinished"></translation>
+        <translation>Кофе</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="89"/>
         <source>Having Tea</source>
-        <translation type="unfinished"></translation>
+        <translation>Чай</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="92"/>
         <source>Having A Snack</source>
-        <translation type="unfinished"></translation>
+        <translation>Перекусываю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="93"/>
         <source>Having Breakfast</source>
-        <translation type="unfinished"></translation>
+        <translation>Завтракаю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="94"/>
         <source>Having Lunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ланч</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="95"/>
         <source>Having Dinner</source>
-        <translation type="unfinished"></translation>
+        <translation>Обедаю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="97"/>
         <source>Exercising</source>
-        <translation type="unfinished"></translation>
+        <translation>Занимаюсь спортом</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="143"/>
         <source>Cycling</source>
-        <translation type="unfinished"></translation>
+        <translation>На велосипеде</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="99"/>
         <source>Hiking</source>
-        <translation type="unfinished"></translation>
+        <translation>В походе</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="100"/>
         <source>Jogging</source>
-        <translation type="unfinished"></translation>
+        <translation>Пробежка</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="101"/>
         <source>Playing Sports</source>
-        <translation type="unfinished"></translation>
+        <translation>Спортивные игры</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="102"/>
         <source>Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Бегу</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="103"/>
         <source>Skiing</source>
-        <translation type="unfinished"></translation>
+        <translation>Катаюсь на лыжах</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="104"/>
         <source>Swimming</source>
-        <translation type="unfinished"></translation>
+        <translation>Плаваю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="105"/>
         <source>Working Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Тренировка</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="107"/>
         <source>Grooming</source>
-        <translation type="unfinished"></translation>
+        <translation>Уход за собой</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="108"/>
         <source>At The Spa</source>
-        <translation type="unfinished"></translation>
+        <translation>В spa салоне</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="109"/>
         <source>Brushing Teeth</source>
-        <translation type="unfinished"></translation>
+        <translation>Чищу зубы</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="110"/>
         <source>Getting A Haircut</source>
-        <translation type="unfinished"></translation>
+        <translation>Делаю прическу</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="111"/>
         <source>Shaving</source>
-        <translation type="unfinished"></translation>
+        <translation>Бреюсь</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="112"/>
         <source>Taking A Bath</source>
-        <translation type="unfinished"></translation>
+        <translation>Принимаю ванну</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="113"/>
         <source>Taking A Shower</source>
-        <translation type="unfinished"></translation>
+        <translation>Принимаю душ</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="115"/>
         <source>Having Appointment</source>
-        <translation type="unfinished"></translation>
+        <translation>Встреча</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="117"/>
         <source>Inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Неактивен</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="118"/>
         <source>Day Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Выходной день</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="119"/>
         <source>Hanging Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Гуляю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="120"/>
         <source>On Vacation</source>
-        <translation type="unfinished"></translation>
+        <translation>В отпуске</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="121"/>
         <source>Scheduled Holiday</source>
-        <translation type="unfinished"></translation>
+        <translation>Запланированный отпуск</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="122"/>
         <source>Sleeping</source>
-        <translation type="unfinished"></translation>
+        <translation>Сплю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="124"/>
         <source>Relaxing</source>
-        <translation type="unfinished"></translation>
+        <translation>Отдыхаю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="125"/>
         <source>Gaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Играю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="126"/>
         <source>Going Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Вышел</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="127"/>
         <source>Partying</source>
-        <translation type="unfinished"></translation>
+        <translation>На вечеринке</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="128"/>
         <source>Reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Читаю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="129"/>
         <source>Rehearsing</source>
-        <translation type="unfinished"></translation>
+        <translation>Репетиция</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="130"/>
         <source>Shopping</source>
-        <translation type="unfinished"></translation>
+        <translation>Покупки</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="131"/>
         <source>Socializing</source>
-        <translation type="unfinished"></translation>
+        <translation>Общаюсь</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="132"/>
         <source>Sunbathing</source>
-        <translation type="unfinished"></translation>
+        <translation>Загораю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="133"/>
         <source>Watching TV</source>
-        <translation type="unfinished"></translation>
+        <translation>Смотрю ТВ</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="134"/>
         <source>Watching A Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Смотрю кино</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="136"/>
         <source>Talking</source>
-        <translation type="unfinished"></translation>
+        <translation>Разговариваю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="137"/>
         <source>In Real Life</source>
-        <translation type="unfinished"></translation>
+        <translation>В реальной жизни</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="138"/>
         <source>On The Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>По телефону</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="139"/>
         <source>On Video Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>По видео телефону</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="141"/>
         <source>Traveling</source>
-        <translation type="unfinished"></translation>
+        <translation>Путешествую</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="142"/>
         <source>Commuting</source>
-        <translation type="unfinished"></translation>
+        <translation>Еду с работы/на работу</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="144"/>
         <source>Driving</source>
-        <translation type="unfinished"></translation>
+        <translation>Вождение</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="145"/>
         <source>In A Car</source>
-        <translation type="unfinished"></translation>
+        <translation>В машине</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="146"/>
         <source>On A Bus</source>
-        <translation type="unfinished"></translation>
+        <translation>В автобусе</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="147"/>
         <source>On A Train</source>
-        <translation type="unfinished"></translation>
+        <translation>В поезде</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="148"/>
         <source>On A Trip</source>
-        <translation type="unfinished"></translation>
+        <translation>В поездке</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="149"/>
         <source>Walking</source>
-        <translation type="unfinished"></translation>
+        <translation>Прогулка</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="151"/>
         <source>Working</source>
-        <translation type="unfinished"></translation>
+        <translation>Работаю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="152"/>
         <source>Coding</source>
-        <translation type="unfinished"></translation>
+        <translation>Пишу программу</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="153"/>
         <source>In A Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>На совещании</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="154"/>
         <source>Studying</source>
-        <translation type="unfinished"></translation>
+        <translation>Учусь</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="155"/>
         <source>Writing</source>
-        <translation type="unfinished"></translation>
+        <translation>Пишу</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="158"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Другое</translation>
     </message>
     <message>
         <location filename="../src/userlist.cpp" line="503"/>
         <source>Activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Занятие</translation>
     </message>
 </context>
 <context>
