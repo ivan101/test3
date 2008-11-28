@@ -5295,6 +5295,16 @@ Details: %1</source>
         <source>Use contacts&apos; message formatting</source>
         <translation>Использовать формат текста отправителя</translation>
     </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="39"/>
+        <source>Request receipts</source>
+        <translation>Запрашивать отчет о доставке</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="46"/>
+        <source>Send receipts</source>
+        <translation>Отправлять отчет о доставке</translation>
+    </message>
 </context>
 <context>
     <name>OptAppearance</name>
@@ -5760,16 +5770,6 @@ Details: %1</source>
         <source>Show incoming message on popup</source>
         <translation>Показывать входящее сообщение</translation>
     </message>
-    <message>
-        <location filename="../src/options/opt_events.ui" line="88"/>
-        <source>Request receipts</source>
-        <translation>Запрашивать отчет о доставке</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_events.ui" line="95"/>
-        <source>Send receipts</source>
-        <translation>Отправлять отчет о доставке</translation>
-    </message>
 </context>
 <context>
     <name>OptPlugins</name>
@@ -6136,6 +6136,16 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
         <translation>Обычно при двойном клике мышью по контакту выполняется действие по умолчанию. Включите эту опцию, если хотите использовать для этого одиночный клик.</translation>
     </message>
+    <message>
+        <location filename="../src/options/opt_advanced.cpp" line="56"/>
+        <source>Request receipts from contacts on each message.</source>
+        <translation>Запрашивать отчет о доставке у контактов при каждом сообщении.</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.cpp" line="58"/>
+        <source>Send receipts to contacts by request.</source>
+        <translation>Отправлять отчет о доставке по запросу.</translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabAppearance</name>
@@ -6463,16 +6473,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location filename="../src/options/opt_events.cpp" line="57"/>
         <source>What kind of animation should psi use for incoming event icons on the main window?</source>
         <translation>Какой стиль анимации должен использоваться для иконок входящих событий в основном окне ?</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_events.cpp" line="73"/>
-        <source>Request receipts from contacts on each message.</source>
-        <translation>Запрашивать отчет о доставке у контактов при каждом сообщении.</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_events.cpp" line="75"/>
-        <source>Send receipts to contacts.</source>
-        <translation>Отпралять отчет о доставке контактам</translation>
     </message>
 </context>
 <context>
