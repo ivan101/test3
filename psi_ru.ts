@@ -258,7 +258,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../src/accountadddlg.cpp" line="45"/>
         <source>Check this option if you don&apos;t yet have a Jabber account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation>Включите эту опцию, только если у вас нет аккаунта Jabber и вам нужно его создать. Имейте ввиду, что регистрация новых пользователей должна быть разрешена на сервере, иначе попытка будет неудачной.</translation>
+        <translation>Включите эту опцию, только если у вас нет аккаунта Jabber и вам нужно его создать. Имейте в виду, что регистрация новых пользователей должна быть разрешена на сервере, иначе попытка будет неудачной.</translation>
     </message>
     <message>
         <location filename="../src/accountadddlg.cpp" line="47"/>
@@ -1079,7 +1079,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/activeprofiles_win.cpp" line="278"/>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Этот профиль уже используется...&lt;br&gt;пожалуйста ждите...</translation>
+        <translation>Этот профиль уже используется...&lt;br&gt;пожалуйста, ждите...</translation>
     </message>
 </context>
 <context>
@@ -3724,7 +3724,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="40"/>
         <source>Highlight lines and alert the user if this text is included in chat</source>
-        <translation>Выделять текст, и оповещать пользователя если этот текст был сказан в чате</translation>
+        <translation>Выделять текст, и оповещать пользователя если этот текст содержится в чате</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="163"/>
@@ -6026,7 +6026,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/psioptionseditor.cpp" line="51"/>
         <source>Psi: Edit Option %1</source>
-        <translation>Psi: Редакторировать опцию %1</translation>
+        <translation>Psi: Редактировать опцию %1</translation>
     </message>
     <message>
         <location filename="../src/psioptionseditor.cpp" line="86"/>
@@ -6359,7 +6359,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_chat.cpp" line="86"/>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;При использовании этой опции историячата хранится в памяти в течение часа.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;При использовании этой опции история чата хранится в памяти в течение часа.&lt;/P&gt;</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.cpp" line="90"/>
@@ -6516,7 +6516,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_iconset.cpp" line="717"/>
         <source>Select your mood iconset</source>
-        <translation>Выбрать иконкки настроений</translation>
+        <translation>Выбрать иконки настроений</translation>
     </message>
 </context>
 <context>
@@ -8355,7 +8355,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="130"/>
         <source>Toggles visibility of away/xa/dnd contacts in roster</source>
-        <translation>Переключить показ контактов со статусами  &quot;Отсутствую/Недоступен/Не бемпокоить&quot;</translation>
+        <translation>Переключить показ контактов со статусами  &quot;Отсутствую/Недоступен/Не беспокоить&quot;</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="133"/>
@@ -8505,7 +8505,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psichatdlg.cpp" line="191"/>
         <source>Toggle Compact/Full size</source>
-        <translation>Компактый/Полный режим</translation>
+        <translation>Компактный/Полный режим</translation>
     </message>
     <message>
         <location filename="../src/psichatdlg.cpp" line="182"/>
@@ -8595,7 +8595,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../src/psicon.cpp" line="411"/>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
-        <translation>Невозможно загрузить набор икокнок! Проверьте установку Psi.</translation>
+        <translation>Невозможно загрузить набор иконок! Проверьте установку Psi.</translation>
     </message>
     <message>
         <location filename="../src/psicon.cpp" line="1432"/>
@@ -8821,7 +8821,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psioptionseditor.cpp" line="125"/>
         <source>Full name of the currently selected option.</source>
-        <translation>Полное названи выбранной опции.</translation>
+        <translation>Полное название выбранной опции.</translation>
     </message>
     <message>
         <location filename="../src/psioptionseditor.cpp" line="177"/>
@@ -11918,7 +11918,7 @@ The contents of the whiteboard will be lost.</source>
     <message>
         <location filename="../src/whiteboarding/wbmanager.cpp" line="136"/>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
-        <translation>%1 приглашает вас порисовать. Вы хотите присоедениться?</translation>
+        <translation>%1 приглашает вас порисовать. Вы хотите присоединиться?</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbmanager.cpp" line="61"/>
