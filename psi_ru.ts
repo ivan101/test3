@@ -29,7 +29,7 @@
     <message>
         <location filename="../src/ahcformdlg.cpp" line="130"/>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation>Ок</translation>
     </message>
     <message>
         <location filename="../src/ahcformdlg.cpp" line="76"/>
@@ -188,7 +188,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     <message>
         <location filename="../src/aboutdlg.cpp" line="105"/>
         <source>Security plugin: %1</source>
-        <translation>Плагин безопасности: %1</translation>
+        <translation>Модуль безопасности: %1</translation>
     </message>
     <message>
         <location filename="../src/about.ui" line="162"/>
@@ -1107,7 +1107,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/activity.ui" line="96"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="../src/activity.ui" line="103"/>
@@ -1153,7 +1153,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/addurl.ui" line="102"/>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation>&amp;ОК</translation>
     </message>
     <message>
         <location filename="../src/addurl.ui" line="39"/>
@@ -3311,12 +3311,12 @@ Reason: %1</source>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1114"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
-        <translation>%1 выгнан из %2 до лучших времен</translation>
+        <translation>%1 выгнан из %2 в связи с изменением ранга</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1116"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
-        <translation>%1 выгнали из конференции до лучших времен</translation>
+        <translation>%1 выгнали из конференции в связи с изменением ранга</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="980"/>
@@ -4988,7 +4988,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/mucreasonseditor.ui" line="95"/>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation>Ок</translation>
     </message>
     <message>
         <location filename="../src/mucreasonseditor.ui" line="13"/>
@@ -5071,7 +5071,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/mainwin.cpp" line="815"/>
         <source>Security Plugins Diagnostic Text</source>
-        <translation>Текст диагностики плагина безопасности</translation>
+        <translation>Текст диагностики модуля безопасности</translation>
     </message>
     <message>
         <location filename="../src/mainwin.cpp" line="869"/>
@@ -5162,7 +5162,7 @@ Details: %1</source>
     <message>
         <location filename="../src/mood.ui" line="92"/>
         <source>OK</source>
-        <translation>Ok</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="../src/mood.ui" line="16"/>
@@ -6493,7 +6493,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_iconset.cpp" line="555"/>
         <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be replaced by &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Смайлы - набор символов, визуально выражающие эмоции или идеи.&lt;/P&gt;&lt;P&gt;Включите эту опцию, если хотите заменять общеупотребимые смайлы на картинки.&lt;/P&gt;&lt;P&gt;Например, &lt;B&gt;:-)&lt;/B&gt; будет заменено на &lt;icon name=&quot;psi/smile&quot;&gt;.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Смайлы - набор символов, визуально выражающие эмоции или идеи.&lt;/P&gt;&lt;P&gt;Включите эту опцию, если хотите заменять общеупотребительные смайлы на картинки.&lt;/P&gt;&lt;P&gt;Например, &lt;B&gt;:-)&lt;/B&gt; будет заменено на &lt;icon name=&quot;psi/smile&quot;&gt;.&lt;/P&gt;</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset.cpp" line="527"/>
@@ -6841,7 +6841,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/ui_options.ui" line="145"/>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation>&amp;ОК</translation>
     </message>
     <message>
         <location filename="../src/options/ui_options.ui" line="13"/>
@@ -6874,7 +6874,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/pgpkey.ui" line="96"/>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation>&amp;ОК</translation>
     </message>
     <message>
         <location filename="../src/pgpkey.ui" line="22"/>
@@ -6940,7 +6940,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/passphrase.ui" line="112"/>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation>&amp;ОК</translation>
     </message>
     <message>
         <location filename="../src/passphrase.ui" line="16"/>
@@ -7139,7 +7139,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="196"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="65"/>
@@ -8245,12 +8245,12 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="346"/>
         <source>Security Plugins</source>
-        <translation>Плагины безопасности</translation>
+        <translation>Модули безопасности</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="346"/>
         <source>Security &amp;Plugins</source>
-        <translation>&amp;Плагины безопасности</translation>
+        <translation>&amp;Модули безопасности</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="323"/>
@@ -8683,7 +8683,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psioptions.cpp" line="161"/>
         <source>Can&apos;t chat.  Gotta work.</source>
-        <translation>Некогда болтать.  Надо работать.</translation>
+        <translation>Некогда болтать. Надо работать.</translation>
     </message>
     <message>
         <location filename="../src/psioptions.cpp" line="152"/>
@@ -10848,7 +10848,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation>Диагностика плагинов безопасности</translation>
+        <translation>Диагностика модулей безопасности</translation>
     </message>
     <message>
         <source>Open Help</source>
