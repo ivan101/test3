@@ -128,7 +128,7 @@ Copyright © 2001-2008 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Свежая версия перевода всегда тут: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;©23.11.2008</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Свежая версия перевода всегда тут: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;©30.11.2008</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="70"/>
@@ -215,7 +215,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing Jabber account then leave this box unchecked.</source>
         <translation>&lt;qt&gt;Выберите удобное &lt;b&gt;имя&lt;/b&gt;, которое будет использоваться программой в дальнейшем для этого аккаунта.
 &lt;br&gt;
-Поставьте галочку напротив &lt;b&gt;Зарегистрировать новый аккаунт&lt;/b&gt;, если Вы хотите создать новый аккаунт на сервере. Если вы добавляете уже существующий аккаунт, не ставьте ее.</translation>
+Поставьте галочку напротив &lt;b&gt;Зарегистрировать новый аккаунт&lt;/b&gt;, если Вы хотите создать новый аккаунт на сервере. Если вы добавляете уже существующий аккаунт, не ставьте её.</translation>
     </message>
     <message>
         <location filename="../src/accountadd.ui" line="146"/>
@@ -352,7 +352,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../src/accountmodify.ui" line="221"/>
         <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Информация хранится на сервере в виде визитной карточки vCard и каждый пользователь может посмотреть ее в любой момент.&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;Информация хранится на сервере в виде визитной карточки vCard и каждый пользователь может посмотреть её в любой момент.&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../src/accountmodify.ui" line="61"/>
@@ -620,7 +620,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="261"/>
         <source>&lt;p&gt;You can have multiple clients connected to the Jabber server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your Jabber client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;У вас может быть несколько клиентов, подключенных к серверу Jabber и использующих один аккаунт. Сообщения, для которых не указан &quot;ресурс-получатель&quot; будут доставляться ресурсу с наибольшим приоритетом (указываемом здесь).&lt;/p&gt;&lt;p&gt;Например, если у вас постоянное соединение с Интернетом на работе и модемное - дома, вы можете оставлять клиент Jabber на работе постоянно работающим с низким приоритетом. При этом вы сможете пользоваться тем же аккаунтом при работе дома с помощью клиента с более высоким приоритетом, чтобы временно перехватывать сообщения у клиента, запущенного на рабочем месте.&lt;/p&gt;ж</translation>
+        <translation>&lt;p&gt;У вас может быть несколько клиентов, подключённых к серверу Jabber и использующих один аккаунт. Сообщения, для которых не указан &quot;ресурс-получатель&quot; будут доставляться ресурсу с наибольшим приоритетом (указываемом здесь).&lt;/p&gt;&lt;p&gt;Например, если у вас постоянное соединение с Интернетом на работе и модемное - дома, вы можете оставлять клиент Jabber на работе постоянно работающим с низким приоритетом. При этом вы сможете пользоваться тем же аккаунтом при работе дома с помощью клиента с более высоким приоритетом, чтобы временно перехватывать сообщения у клиента, запущенного на рабочем месте.&lt;/p&gt;ж</translation>
     </message>
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="112"/>
@@ -730,7 +730,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="200"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the Jabber server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation>Обычно Psi регистрируется в сети, используя режим аутентификации, при котором пароль не передается в открытом виде. Отметьте эту опцию, если хотите использовать базовую аутентификацию (пароль передается в открытом виде). Рекомендуется делать это только тогда, когда у вас возникают проблемы с обычной процедурой регистрации в сети, так как теоретически этот способ делает соединение уязвимым.</translation>
+        <translation>Обычно Psi регистрируется в сети, используя режим аутентификации, при котором пароль не передаётся в открытом виде. Отметьте эту опцию, если хотите использовать базовую аутентификацию (пароль передаётся в открытом виде). Рекомендуется делать это только тогда, когда у вас возникают проблемы с обычной процедурой регистрации в сети, так как теоретически этот способ делает соединение уязвимым.</translation>
     </message>
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="113"/>
@@ -750,7 +750,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="221"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
-        <translation>Периодически отправлять пакеты для поддержания соединения. Полезно, если ваше соединение автоматически разрывается после определенного периода бездействия (например, вашим поставщиком услуг Интернета), а вы этого не хотите.</translation>
+        <translation>Периодически отправлять пакеты для поддержания соединения. Полезно, если ваше соединение автоматически разрывается после определённого периода бездействия (например, вашим поставщиком услуг Интернета), а вы этого не хотите.</translation>
     </message>
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="410"/>
@@ -795,7 +795,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="245"/>
         <source>You can have multiple clients connected to the Jabber server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation>У вас может быть несколько клиентов, подключенных к серверу Jabber и использующих один аккаунт. Клиент идентифицируется именем &quot;ресурса&quot;, которое можно указать здесь.</translation>
+        <translation>У вас может быть несколько клиентов, подключённых к серверу Jabber и использующих один аккаунт. Клиент идентифицируется именем &quot;ресурса&quot;, которое можно указать здесь.</translation>
     </message>
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="631"/>
@@ -1044,7 +1044,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/accountmanagedlg.cpp" line="160"/>
         <source>Password does not match account.  Please try again.</source>
-        <translation>Введенный пароль не совпадает с паролем аккаунта. Попробуйте еще раз.</translation>
+        <translation>Введённый пароль не совпадает с паролем аккаунта. Попробуйте ещё раз.</translation>
     </message>
     <message>
         <location filename="../src/accountmanagedlg.cpp" line="227"/>
@@ -1054,7 +1054,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/accountmanagedlg.cpp" line="227"/>
         <source>The account was unregistered successfully.</source>
-        <translation>Аккаунт был успешно удален.</translation>
+        <translation>Аккаунт был успешно удалён.</translation>
     </message>
     <message>
         <location filename="../src/accountmanagedlg.cpp" line="219"/>
@@ -1153,7 +1153,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/addurl.ui" line="102"/>
         <source>&amp;OK</source>
-        <translation>&amp;ОК</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <location filename="../src/addurl.ui" line="39"/>
@@ -1279,7 +1279,7 @@ There was an error getting the Service ID translation information from &quot;%1&
         <translation>&lt;qt&gt;
 Во время получения информации о трансляции Service ID с &quot;%1&quot; произошла ошибка.&lt;br&gt;
 Причина: %2&lt;br&gt;&lt;br&gt;
-Возможно, данный сервис не поддерживает эту функцию. В этом случае вам придется ввести Jabber ID контакта вручную. Примеры:&lt;br&gt;&lt;br&gt;
+Возможно, данный сервис не поддерживает эту функцию. В этом случае вам придётся ввести Jabber ID контакта вручную. Примеры:&lt;br&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;
 &amp;nbsp;&amp;nbsp;aoluser@[Jabber ID службы AIM]&lt;br&gt;
 &amp;nbsp;&amp;nbsp;1234567@[Jabber ID службы ICQ]&lt;br&gt;
@@ -1315,7 +1315,7 @@ There was an error getting the Service ID translation information from &quot;%1&
         <location filename="../src/adduserdlg.cpp" line="143"/>
         <source>The Jabber ID you entered is not valid!
 Make sure you enter a fully qualified Jabber ID.</source>
-        <translation>Введенный вами Jabber ID недействителен!
+        <translation>Введённый вами Jabber ID недействителен!
 Убедитесь, что вы ввели правильный Jabber ID.</translation>
     </message>
 </context>
@@ -1547,7 +1547,7 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location filename="../src/changepw.ui" line="50"/>
         <source>Confirm new password:</source>
-        <translation>Новый пароль еще раз:</translation>
+        <translation>Новый пароль ещё раз:</translation>
     </message>
     <message>
         <location filename="../src/changepw.ui" line="57"/>
@@ -1575,7 +1575,7 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location filename="../src/changepwdlg.cpp" line="88"/>
         <source>New password and confirmation do not match.  Please enter them again.</source>
-        <translation>Новый пароль и его копия не совпадают. Введите их еще раз.</translation>
+        <translation>Новый пароль и его копия не совпадают. Введите их ещё раз.</translation>
     </message>
     <message>
         <location filename="../src/changepwdlg.cpp" line="121"/>
@@ -1585,7 +1585,7 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location filename="../src/changepwdlg.cpp" line="121"/>
         <source>Successfully changed password.</source>
-        <translation>Пароль был успешно изменен.</translation>
+        <translation>Пароль был успешно изменён.</translation>
     </message>
     <message>
         <location filename="../src/changepwdlg.cpp" line="129"/>
@@ -1597,7 +1597,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/changepwdlg.cpp" line="81"/>
         <source>You entered your old password incorrectly.  Try again.</source>
-        <translation>Старый пароль введен неправильно. Попробуйте еще раз.</translation>
+        <translation>Старый пароль введён неправильно. Попробуйте ещё раз.</translation>
     </message>
     <message>
         <location filename="../src/changepwdlg.cpp" line="76"/>
@@ -1911,7 +1911,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../src/contactview.cpp" line="920"/>
         <source>Online Users</source>
-        <translation>Подключенные пользователи</translation>
+        <translation>Подключённые пользователи</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1212"/>
@@ -2033,7 +2033,7 @@ Do you still want to close the window?</source>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>Это приведет к тому, что все контакты этой группы потеряют связь с ней.
+        <translation>Это приведёт к тому, что все контакты этой группы потеряют связь с ней.
 Продолжить?</translation>
     </message>
     <message>
@@ -2277,12 +2277,12 @@ Proceed?</source>
     <message>
         <location filename="../src/discodlg.cpp" line="988"/>
         <source>&amp;Forward</source>
-        <translation>&amp;Вперед</translation>
+        <translation>&amp;Вперёд</translation>
     </message>
     <message>
         <location filename="../src/discodlg.cpp" line="988"/>
         <source>Forward</source>
-        <translation>Вперед</translation>
+        <translation>Вперёд</translation>
     </message>
     <message>
         <location filename="../src/discodlg.cpp" line="1000"/>
@@ -2834,7 +2834,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../src/filetransdlg.cpp" line="911"/>
         <source>File was rejected by remote user.</source>
-        <translation>Файл был отклонен другой стороной.</translation>
+        <translation>Файл был отклонён другой стороной.</translation>
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="653"/>
@@ -2899,12 +2899,12 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../src/filetransdlg.cpp" line="791"/>
         <source>The Jabber ID specified is not valid.  Correct this and try again.</source>
-        <translation>Указан неправильный Jabber ID.  Исправьте его и попробуйте еще раз.</translation>
+        <translation>Указан неправильный Jabber ID.  Исправьте его и попробуйте ещё раз.</translation>
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="831"/>
         <source>This file is being transferred already!</source>
-        <translation>Этот файл уже передается!</translation>
+        <translation>Этот файл уже передаётся!</translation>
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="639"/>
@@ -2923,11 +2923,11 @@ that outgoing TCP connections are allowed.</source>
 Ensure that your Data Transfer settings are proper.  If you are behind
 a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
-        <translation>Невозможно соединиться с удаленным компьютером для передачи данных.
+        <translation>Невозможно соединиться с удалённым компьютером для передачи данных.
 
 Убедитесь, что указаны правильные параметры передачи данных.
 Если вы находитесь за роутером с NAT&apos;ом или брандмауэром, то вам необходимо
-открыть на нем нужный TCP-порт или указать прокси-сервер для передачи
+открыть на нём нужный TCP-порт или указать прокси-сервер для передачи
 данных в настройках вашего аккаунта.</translation>
     </message>
     <message>
@@ -3034,7 +3034,7 @@ contact is offline.</source>
     <message>
         <location filename="../src/filetransdlg.cpp" line="1572"/>
         <source>Clear &amp;Finished</source>
-        <translation>О&amp;чистить завершенные</translation>
+        <translation>О&amp;чистить завершённые</translation>
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="1286"/>
@@ -3468,7 +3468,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1125"/>
         <source>Removed</source>
-        <translation>Удален</translation>
+        <translation>Удалён</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1056"/>
@@ -3925,7 +3925,7 @@ Reason: %1</source>
         <location filename="../src/historydlg.cpp" line="308"/>
         <source>This will erase all message history for this contact!
 Are you sure you want to do this?</source>
-        <translation>Это приведет к удалению всех сообщений из истории этого контакта!
+        <translation>Это приведёт к удалению всех сообщений из истории этого контакта!
 Вы уверены, что хотите сделать это?</translation>
     </message>
     <message>
@@ -4558,7 +4558,7 @@ Reason: %1</source>
         <location filename="../src/infodlg.cpp" line="155"/>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>Вы не сохранили изменения, произведенные в вашем аккаунте.
+        <translation>Вы не сохранили изменения, произведённые в вашем аккаунте.
 Вы уверены, что хотите отказаться от них?</translation>
     </message>
     <message>
@@ -5137,7 +5137,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/miniclient.cpp" line="165"/>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation>Сертификат %1 не прошел проверку на аутентичность.</translation>
+        <translation>Сертификат %1 не прошёл проверку на аутентичность.</translation>
     </message>
     <message>
         <location filename="../src/miniclient.cpp" line="247"/>
@@ -5233,7 +5233,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="39"/>
         <source>Enable remote controlling from other locations</source>
-        <translation>Включить удаленное управление</translation>
+        <translation>Включить удалённое управление</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="74"/>
@@ -5298,12 +5298,12 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="39"/>
         <source>Request receipts</source>
-        <translation>Запрашивать отчет о доставке</translation>
+        <translation>Запрашивать отчёт о доставке</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="46"/>
         <source>Send receipts</source>
-        <translation>Отправлять отчет о доставке</translation>
+        <translation>Отправлять отчёт о доставке</translation>
     </message>
 </context>
 <context>
@@ -5381,7 +5381,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="61"/>
         <source>Offline contacts</source>
-        <translation>Отключенные контакты</translation>
+        <translation>Отключённые контакты</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="40"/>
@@ -5897,7 +5897,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_sound.ui" line="356"/>
         <source>Receive offline status</source>
-        <translation>Получение статуса &quot;Отключен&quot;</translation>
+        <translation>Получение статуса &quot;Отключён&quot;</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="111"/>
@@ -5965,7 +5965,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_status.ui" line="47"/>
         <source>Offline</source>
-        <translation>Отключен</translation>
+        <translation>Отключён</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="40"/>
@@ -6079,7 +6079,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_advanced.cpp" line="56"/>
         <source>Enables remote controlling your client from other locations</source>
-        <translation>Включить удаленное управление вашим клиентом с других мест</translation>
+        <translation>Включить удалённое управление вашим клиентом с других мест</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.cpp" line="51"/>
@@ -6139,12 +6139,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_advanced.cpp" line="56"/>
         <source>Request receipts from contacts on each message.</source>
-        <translation>Запрашивать отчет о доставке у контактов при каждом сообщении.</translation>
+        <translation>Запрашивать отчёт о доставке у контактов при каждом сообщении.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.cpp" line="58"/>
         <source>Send receipts to contacts by request.</source>
-        <translation>Отправлять отчет о доставке по запросу.</translation>
+        <translation>Отправлять отчёт о доставке по запросу.</translation>
     </message>
 </context>
 <context>
@@ -6185,7 +6185,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_appearance.cpp" line="225"/>
         <source>offline</source>
-        <translation>отключен</translation>
+        <translation>отключён</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.cpp" line="223"/>
@@ -6364,7 +6364,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_chat.cpp" line="90"/>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;При использовании этой опции история чата хранится в памяти всегда.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;При использовании этой опции история чата хранится в памяти всеи всегда.&lt;/P&gt;</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.cpp" line="69"/>
@@ -6452,7 +6452,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_events.cpp" line="71"/>
         <source>Makes Psi notify you when your authorization request was approved.</source>
-        <translation>Уведомлять только в случае подтвержденной авторизации.</translation>
+        <translation>Уведомлять только в случае подтверждённой авторизации.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.cpp" line="50"/>
@@ -6684,17 +6684,17 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_status.cpp" line="48"/>
         <source>Makes Psi automatically set your status to &quot;away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation>Автоматически переходить в режим отсутствия при бездействии в течение определенного периода времени.</translation>
+        <translation>Автоматически переходить в режим отсутствия при бездействии в течение определённого периода времени.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.cpp" line="52"/>
         <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation>Автоматически переходить в режим длительного отсутствия при бездействии в течение определенного периода времени.</translation>
+        <translation>Автоматически переходить в режим длительного отсутствия при бездействии в течение определённого периода времени.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.cpp" line="57"/>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>Автоматически выходить из сети при бездействии в течение определенного периода времени.  Произойдет отключение от сервера Jabber.</translation>
+        <translation>Автоматически выходить из сети при бездействии в течение определённого периода времени.  Произойдёт отключение от сервера Jabber.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.cpp" line="253"/>
@@ -7265,7 +7265,7 @@ Please enter your passphrase below:</source>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation>&lt;qt&gt;Подтвердите свое решение. Данная папка будет удалена!&lt;br&gt;&lt;br&gt;
+        <translation>&lt;qt&gt;Подтвердите своё решение. Данная папка будет удалена!&lt;br&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Подтверждаете?</translation>
     </message>
@@ -7596,7 +7596,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/proxy.cpp" line="249"/>
         <source>Enter your proxy server password or leave this field blank if the proxy server does not require it.</source>
-        <translation>Введите пароль, соответствующий введенному выше имени пользователя, или оставьте это поле пустым, если он не нужен.</translation>
+        <translation>Введите пароль, соответствующий введённому выше имени пользователя, или оставьте это поле пустым, если он не нужен.</translation>
     </message>
     <message>
         <location filename="../src/proxy.cpp" line="235"/>
@@ -7636,12 +7636,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Невозможно найти ключ OpenPGP для использования с &lt;b&gt;%1&lt;/b&gt;.
 &lt;br&gt;&lt;br&gt;
-Это могло произойти, если у вас нет ключа, который контакт указывает в своем &quot;подписанном присутствии&quot;, или он вообще не указывает ключа.&lt;/p&gt;</translation>
+Это могло произойти, если у вас нет ключа, который контакт указывает в своём &quot;подписанном присутствии&quot;, или он вообще не указывает ключа.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="1572"/>
         <source>A required remote connection failed</source>
-        <translation>Необходимое удаленное соединение закрыто вследствие ошибки</translation>
+        <translation>Необходимое удалённое соединение закрыто вследствие ошибки</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="1620"/>
@@ -7676,7 +7676,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/psiaccount.cpp" line="1523"/>
         <source>Conflict (remote login replacing this one)</source>
-        <translation>Конфликт (удаленное подключение заменило это подключение)</translation>
+        <translation>Конфликт (удалённое подключение заменило это подключение)</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="1562"/>
@@ -7701,7 +7701,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/psiaccount.cpp" line="1498"/>
         <source>Disconnected</source>
-        <translation>Отключен</translation>
+        <translation>Отключён</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="4885"/>
@@ -7711,7 +7711,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/psiaccount.cpp" line="2223"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
-        <translation>Вы подтверждаете прием %1 (%2 кб) от %3?</translation>
+        <translation>Вы подтверждаете приём %1 (%2 кб) от %3?</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="1607"/>
@@ -7866,7 +7866,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/psiaccount.cpp" line="1605"/>
         <source>Server failed mutual authentication</source>
-        <translation>Сервер не прошел взаимную аутентификацию</translation>
+        <translation>Сервер не прошёл взаимную аутентификацию</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="1541"/>
@@ -7906,7 +7906,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/psiaccount.cpp" line="1310"/>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation>Сертификат %1 не прошел проверку на достоверность.</translation>
+        <translation>Сертификат %1 не прошёл проверку на достоверность.</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="947"/>
@@ -8150,7 +8150,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="301"/>
         <source>Offline</source>
-        <translation>Отключен</translation>
+        <translation>Отключён</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="277"/>
@@ -8290,7 +8290,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="125"/>
         <source>Show Offline Contacts</source>
-        <translation>Показывать отключенных</translation>
+        <translation>Показывать отключённых</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="320"/>
@@ -8365,7 +8365,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="126"/>
         <source>Toggles visibility of offline contacts in roster</source>
-        <translation>Переключить показ отключенных контактов</translation>
+        <translation>Переключить показ отключённых контактов</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="139"/>
@@ -8553,7 +8553,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psicon.cpp" line="1404"/>
         <source>Computer went to sleep</source>
-        <translation>Компьютер вошел в спящий режим</translation>
+        <translation>Компьютер вошёл в спящий режим</translation>
     </message>
     <message>
         <location filename="../src/psicon.cpp" line="666"/>
@@ -8590,7 +8590,7 @@ Reason: %1.</source>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
         <translation>Невозможно подключиться к порту %1 для передачи данных.
-Скорее всего, у вас запущена другая копия Psi. Это приведет к проблемам передачи и приема файлов.</translation>
+Скорее всего, у вас запущена другая копия Psi. Это приведёт к проблемам передачи и приёма файлов.</translation>
     </message>
     <message>
         <location filename="../src/psicon.cpp" line="411"/>
@@ -8673,7 +8673,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psioptions.cpp" line="144"/>
         <source>Away from desk</source>
-        <translation>Отошел от рабочего места</translation>
+        <translation>Отошёл от рабочего места</translation>
     </message>
     <message>
         <location filename="../src/psioptions.cpp" line="187"/>
@@ -8703,7 +8703,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psioptions.cpp" line="145"/>
         <source>I am away from my desk.  Leave a message.</source>
-        <translation>Я отошел от своего рабочего места. Оставьте мне сообщение.</translation>
+        <translation>Я отошёл от своего рабочего места. Оставьте мне сообщение.</translation>
     </message>
     <message>
         <location filename="../src/psioptions.cpp" line="181"/>
@@ -8713,12 +8713,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psioptions.cpp" line="149"/>
         <source>I&apos;m in the shower.  You&apos;ll have to wait for me to get out.</source>
-        <translation>Я в душе. Вам придется подождать, пока я выйду оттуда.</translation>
+        <translation>Я в душе. Вам придётся подождать, пока я выйду оттуда.</translation>
     </message>
     <message>
         <location filename="../src/psioptions.cpp" line="173"/>
         <source>I&apos;m not available right now and that&apos;s all you need to know.</source>
-        <translation>Я сейчас недоступен. Вот и все.</translation>
+        <translation>Я сейчас недоступен. Вот и всё.</translation>
     </message>
     <message>
         <location filename="../src/psioptions.cpp" line="168"/>
@@ -8743,7 +8743,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psioptions.cpp" line="169"/>
         <source>Out to a movie.  Is that OK with you?</source>
-        <translation>Я ушел в кино. Вы не против?</translation>
+        <translation>Я ушёл в кино. Вы не против?</translation>
     </message>
     <message>
         <location filename="../src/psioptions.cpp" line="172"/>
@@ -8806,7 +8806,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psioptionseditor.cpp" line="151"/>
         <source>Display all options as a flat list.</source>
-        <translation>Показать все опции развернуто</translation>
+        <translation>Показать все опции развёрнуто</translation>
     </message>
     <message>
         <location filename="../src/psioptionseditor.cpp" line="164"/>
@@ -8816,7 +8816,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psioptionseditor.cpp" line="150"/>
         <source>Flat</source>
-        <translation>Развернуто</translation>
+        <translation>Развёрнуто</translation>
     </message>
     <message>
         <location filename="../src/psioptionseditor.cpp" line="125"/>
@@ -8859,7 +8859,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psipopup.cpp" line="259"/>
         <source>Contact online</source>
-        <translation>Контакт вошел в сеть</translation>
+        <translation>Контакт вошёл в сеть</translation>
     </message>
     <message>
         <location filename="../src/psipopup.cpp" line="281"/>
@@ -8980,7 +8980,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="59"/>
         <source>Amazed</source>
-        <translation>Изумленное</translation>
+        <translation>Изумлённое</translation>
     </message>
     <message>
         <location filename="../src/mucmanager.cpp" line="393"/>
@@ -9005,7 +9005,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="61"/>
         <source>Annoyed</source>
-        <translation>Раздраженное</translation>
+        <translation>Раздражённое</translation>
     </message>
     <message>
         <location filename="../src/moodcatalog.cpp" line="62"/>
@@ -9015,12 +9015,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="63"/>
         <source>Aroused</source>
-        <translation>Пробужденное</translation>
+        <translation>Пробуждённое</translation>
     </message>
     <message>
         <location filename="../src/moodcatalog.cpp" line="64"/>
         <source>Ashamed</source>
-        <translation>Пристыженное</translation>
+        <translation>Пристыжённое</translation>
     </message>
     <message>
         <location filename="../src/psi_profiles.cpp" line="603"/>
@@ -9050,7 +9050,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psi_profiles.cpp" line="629"/>
         <source>Away from desk</source>
-        <translation>Отошел от рабочего места</translation>
+        <translation>Отошёл от рабочего места</translation>
     </message>
     <message>
         <location filename="../src/userlist.cpp" line="557"/>
@@ -9195,7 +9195,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="77"/>
         <source>Embarrassed</source>
-        <translation>Смущенное</translation>
+        <translation>Смущённое</translation>
     </message>
     <message>
         <location filename="../src/pgputil.cpp" line="251"/>
@@ -9305,7 +9305,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="86"/>
         <source>Humiliated</source>
-        <translation>Оскорбленное</translation>
+        <translation>Оскорблённое</translation>
     </message>
     <message>
         <location filename="../src/moodcatalog.cpp" line="87"/>
@@ -9315,12 +9315,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="88"/>
         <source>Hurt</source>
-        <translation>Уязвленное</translation>
+        <translation>Уязвлённое</translation>
     </message>
     <message>
         <location filename="../src/psi_profiles.cpp" line="630"/>
         <source>I am away from my desk.  Leave a message.</source>
-        <translation>Я отошел от своего рабочего места. Оставьте мне сообщение.</translation>
+        <translation>Я отошёл от своего рабочего места. Оставьте мне сообщение.</translation>
     </message>
     <message>
         <location filename="../src/psi_profiles.cpp" line="648"/>
@@ -9345,12 +9345,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psi_profiles.cpp" line="632"/>
         <source>I&apos;m in the shower.  You&apos;ll have to wait for me to get out.</source>
-        <translation>Я в душе. Вам придется подождать, пока я выйду оттуда.</translation>
+        <translation>Я в душе. Вам придётся подождать, пока я выйду оттуда.</translation>
     </message>
     <message>
         <location filename="../src/psi_profiles.cpp" line="644"/>
         <source>I&apos;m not available right now and that&apos;s all you need to know.</source>
-        <translation>Я сейчас недоступен. Вот и все.</translation>
+        <translation>Я сейчас недоступен. Вот и всё.</translation>
     </message>
     <message>
         <location filename="../src/moodcatalog.cpp" line="89"/>
@@ -9360,12 +9360,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="90"/>
         <source>In Awe</source>
-        <translation>Подчиненное</translation>
+        <translation>Подчинённое</translation>
     </message>
     <message>
         <location filename="../src/moodcatalog.cpp" line="91"/>
         <source>In Love</source>
-        <translation>Влюбленное</translation>
+        <translation>Влюблённое</translation>
     </message>
     <message>
         <location filename="../src/psigrowlnotifier.cpp" line="174"/>
@@ -9385,7 +9385,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="92"/>
         <source>Indignant</source>
-        <translation>Возмущенное</translation>
+        <translation>Возмущённое</translation>
     </message>
     <message>
         <location filename="../src/moodcatalog.cpp" line="93"/>
@@ -9395,7 +9395,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="94"/>
         <source>Intoxicated</source>
-        <translation>Опьяненное</translation>
+        <translation>Опьянённое</translation>
     </message>
     <message>
         <location filename="../src/pgputil.cpp" line="242"/>
@@ -9550,7 +9550,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/rc.cpp" line="97"/>
         <source>Offline</source>
-        <translation>Отключен</translation>
+        <translation>Отключён</translation>
     </message>
     <message>
         <location filename="../src/rc.cpp" line="73"/>
@@ -9580,7 +9580,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psi_profiles.cpp" line="642"/>
         <source>Out to a movie.  Is that OK with you?</source>
-        <translation>Я ушел в кино. Вы не против?</translation>
+        <translation>Я ушёл в кино. Вы не против?</translation>
     </message>
     <message>
         <location filename="../src/mucmanager.cpp" line="399"/>
@@ -9675,7 +9675,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="110"/>
         <source>Serious</source>
-        <translation>Серьезное</translation>
+        <translation>Серьёзное</translation>
     </message>
     <message>
         <location filename="../src/rc.cpp" line="163"/>
@@ -9695,7 +9695,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="111"/>
         <source>Shocked</source>
-        <translation>Потрясенное</translation>
+        <translation>Потрясённое</translation>
     </message>
     <message>
         <location filename="../src/psi_profiles.cpp" line="737"/>
@@ -9765,7 +9765,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="115"/>
         <source>Stressed</source>
-        <translation>Напряженное</translation>
+        <translation>Напряжённое</translation>
     </message>
     <message>
         <location filename="../src/userlist.cpp" line="486"/>
@@ -9775,7 +9775,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="116"/>
         <source>Surprised</source>
-        <translation>Удивленное</translation>
+        <translation>Удивлённое</translation>
     </message>
     <message>
         <location filename="../src/Certificates/CertificateHelpers.cpp" line="138"/>
@@ -9855,7 +9855,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="17"/>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation>Сертификат %1 не прошел проверку на достоверность.</translation>
+        <translation>Сертификат %1 не прошёл проверку на достоверность.</translation>
     </message>
     <message>
         <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="20"/>
@@ -9915,7 +9915,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/activitycatalog.cpp" line="83"/>
         <source>Running An Errand</source>
-        <translation>Ушел по поручению</translation>
+        <translation>Ушёл по поручению</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="84"/>
@@ -10025,7 +10025,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/activitycatalog.cpp" line="110"/>
         <source>Getting A Haircut</source>
-        <translation>Делаю прическу</translation>
+        <translation>Делаю причёску</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="111"/>
@@ -10260,7 +10260,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="90"/>
         <source>Dejected</source>
-        <translation>Удрученное</translation>
+        <translation>Удручённое</translation>
     </message>
     <message>
         <location filename="../src/moodcatalog.cpp" line="94"/>
@@ -10275,7 +10275,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="104"/>
         <source>Hopeful</source>
-        <translation>Обнадеженное</translation>
+        <translation>Обнадёженное</translation>
     </message>
     <message>
         <location filename="../src/moodcatalog.cpp" line="119"/>
@@ -10315,7 +10315,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/moodcatalog.cpp" line="146"/>
         <source>Else</source>
-        <translation>Неопределенное</translation>
+        <translation>Неопределённое</translation>
     </message>
     <message>
         <location filename="../src/moodcatalog.cpp" line="147"/>
@@ -10333,7 +10333,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/registrationdlg.cpp" line="212"/>
         <source>&lt;qt&gt;Registration has already been submitted, so closing this window will not prevent the registration from happening.  Do you still wish to close?&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Регистрационная информация уже отправлена, поэтому закрытие этого окна ни к чему не приведет. Закрыть его?&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;Регистрационная информация уже отправлена, поэтому закрытие этого окна ни к чему не приведёт. Закрыть его?&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../src/registrationdlg.cpp" line="212"/>
@@ -10940,7 +10940,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation>Показывать отключенных</translation>
+        <translation>Показывать отключённых</translation>
     </message>
     <message>
         <source>Show Self</source>
@@ -10972,7 +10972,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation>Статус &quot;Отключен&quot;</translation>
+        <translation>Статус &quot;Отключён&quot;</translation>
     </message>
     <message>
         <source>Status Online</source>
@@ -11023,7 +11023,7 @@ Reason: %1</source>
     <message>
         <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="247"/>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation>Доступ не может быть разрешен, пока есть открытый ресурс или сеанс с таким же именем или адресом.</translation>
+        <translation>Доступ не может быть разрешён, пока есть открытый ресурс или сеанс с таким же именем или адресом.</translation>
     </message>
     <message>
         <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="246"/>
@@ -11043,12 +11043,12 @@ Reason: %1</source>
     <message>
         <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="249"/>
         <source>Forbidden</source>
-        <translation>Доступ запрещен</translation>
+        <translation>Доступ запрещён</translation>
     </message>
     <message>
         <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="250"/>
         <source>Gone</source>
-        <translation>Ушел</translation>
+        <translation>Ушёл</translation>
     </message>
     <message>
         <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="251"/>
@@ -11133,7 +11133,7 @@ Reason: %1</source>
     <message>
         <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation>Неопределенное условие в запросе.</translation>
+        <translation>Неопределённое условие в запросе.</translation>
     </message>
     <message>
         <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="248"/>
@@ -11223,7 +11223,7 @@ Reason: %1</source>
     <message>
         <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
         <source>Undefined condition</source>
-        <translation>Неопределенное условие</translation>
+        <translation>Неопределённое условие</translation>
     </message>
     <message>
         <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
@@ -11375,7 +11375,7 @@ Reason: %1</source>
     <message>
         <location filename="../iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="165"/>
         <source>Disconnected</source>
-        <translation>Отключен</translation>
+        <translation>Отключён</translation>
     </message>
 </context>
 <context>
@@ -11446,12 +11446,12 @@ Reason: %1</source>
     <message>
         <location filename="../src/tipdlg.cpp" line="98"/>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>Знаете ли вы, что клик двумя клавишами мыши (или клик средней кнопкой мыши на трехкнопочной мыши) вызывает действие по умолчанию на большинстве объектов Psi?</translation>
+        <translation>Знаете ли вы, что клик двумя клавишами мыши (или клик средней кнопкой мыши на трёхкнопочной мыши) вызывает действие по умолчанию на большинстве объектов Psi?</translation>
     </message>
     <message>
         <location filename="../src/tipdlg.cpp" line="94"/>
         <source>Did you know that Psi is one of the only Jabber clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>Знаете ли вы, что Psi - один из немногих Jabber-клиентов, которые позволяют работать с несколькими серверами одновременно?  Вы можете использовать &quot;mrcool@jabber.org&quot; для общения с друзьями и &quot;John.J.Smith_the_fourth@mycompany.com&quot; для деловых партнеров.</translation>
+        <translation>Знаете ли вы, что Psi - один из немногих Jabber-клиентов, которые позволяют работать с несколькими серверами одновременно?  Вы можете использовать &quot;mrcool@jabber.org&quot; для общения с друзьями и &quot;John.J.Smith_the_fourth@mycompany.com&quot; для деловых партнёров.</translation>
     </message>
     <message>
         <location filename="../src/tipdlg.cpp" line="86"/>
@@ -11708,7 +11708,7 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="227"/>
         <source>%1 left (session: %2).</source>
-        <translation>%1 ушел (сессия: %2).</translation>
+        <translation>%1 ушёл (сессия: %2).</translation>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="262"/>
