@@ -5451,6 +5451,16 @@ Details: %1</source>
         <source>Slim group headings</source>
         <translation>Узкие заголовки группы</translation>
     </message>
+    <message>
+        <location filename="../src/options/opt_appearance_misc.ui" line="144"/>
+        <source>Avatars in roster</source>
+        <translation>Аватары в ростере</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_appearance_misc.ui" line="151"/>
+        <source>Tune icons in roster</source>
+        <translation>Иконка песни в ростере</translation>
+    </message>
 </context>
 <context>
     <name>OptApplication</name>
