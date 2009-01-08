@@ -11510,12 +11510,12 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <location filename="../src/tipdlg.cpp" line="106"/>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>Если вы часто общаетесь в конференциях, вам просто необходима возможность дополнения ников. Нажмите &lt;tt&gt;Tab-Tab&lt;/tt&gt; в начале строки или после ввода первых букв ника и будут подставляться ники сидящих в конференции контактов.</translation>
+        <translation>Если вы часто общаетесь в конференциях, вам просто необходима возможность дополнения ников. Нажмите &lt;tt&gt;Tab-Tab&lt;/tt&gt; в начале строки или после ввода первых букв ника и будут подставляться ники находящихся в конференции контактов.</translation>
     </message>
     <message>
         <location filename="../src/tipdlg.cpp" line="100"/>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your Jabber server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>Для добавления контактов из других сетей вам нужно включить соответствующий агент на сервере Jabber. См. Меню -&gt; Обзор сервисов.</translation>
+        <translation>Для добавления контактов из других сетей вам нужно подключить соответствующий транспорт на сервере Jabber. См. Меню -&gt; Обзор сервисов.</translation>
     </message>
     <message>
         <location filename="../src/tipdlg.cpp" line="104"/>
@@ -11536,7 +11536,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../src/tipdlg.cpp" line="102"/>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>Вы можете сделать клик правой кнопкой мыши по имени сервера в вашем списке контактов, чтобы проделать некоторые действия, имеющие отношения к аккаунту и серверу.  Вы можете изменять свой статус, настройки аккаунта, администрировать сервер (при наличии прав) и т.д.</translation>
+        <translation>Вы можете сделать клик правой кнопкой мыши по заголовку аккаунта в вашем списке контактов, чтобы проделать некоторые действия, имеющие отношения к аккаунту и серверу.  Вы можете изменять свой статус, настройки аккаунта, администрировать сервер (при наличии прав) и т.д.</translation>
     </message>
     <message>
         <location filename="../src/tipdlg.cpp" line="67"/>
