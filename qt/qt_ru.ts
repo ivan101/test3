@@ -2805,7 +2805,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location filename="../src/gui/dialogs/qmessagebox.cpp" line="1696"/>
         <source>&lt;p&gt;This program uses Qt Open Source Edition version %1.&lt;/p&gt;&lt;p&gt;Qt Open Source Edition is intended for the development of Open Source applications. You need a commercial Qt license for development of proprietary (closed source) applications.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://www.trolltech.com/company/model/&quot;&gt;www.trolltech.com/company/model/&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Эта программа использует Qt Open Source Edition версии %1.&lt;/p&gt;&lt;p&gt;Qt Open Source Edition предназначено для разработки открытых програмных средств. Для разработки собственнических (закрытых) программ Вам нужна коммерческая лицензия Qt.&lt;/p&gt;&lt;p&gt;Проcмотрите &lt;a href=&quot;http://www.trolltech.com/company/model/&quot;&gt;www.trolltech.com/company/model/&lt;/a&gt; для обзора лицензии Qt.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Эта программа использует Qt Open Source Edition версии %1.&lt;/p&gt;&lt;p&gt;Qt Open Source Edition предназначена для разработки открытых програмных средств. Для разработки собственнических (закрытых) программ Вам нужна коммерческая лицензия Qt.&lt;/p&gt;&lt;p&gt;Проcмотрите &lt;a href=&quot;http://www.trolltech.com/company/model/&quot;&gt;www.trolltech.com/company/model/&lt;/a&gt; для обзора лицензии Qt.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qmessagebox.cpp" line="1687"/>
