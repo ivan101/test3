@@ -5266,57 +5266,57 @@ Please choose a different file name.</source>
     <message>
         <location filename="../src/gui/text/qtextcontrol.cpp" line="2810"/>
         <source>LRM Left-to-right mark</source>
-        <translation></translation>
+        <translation>LRM Метка слева направо</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qtextcontrol.cpp" line="2811"/>
         <source>RLM Right-to-left mark</source>
-        <translation></translation>
+        <translation>RLM Метка справа налево</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qtextcontrol.cpp" line="2812"/>
         <source>ZWJ Zero width joiner</source>
-        <translation></translation>
+        <translation>ZWJ Нулевой объединитель</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qtextcontrol.cpp" line="2813"/>
         <source>ZWNJ Zero width non-joiner</source>
-        <translation></translation>
+        <translation>ZWNJ Нулевой разъединитель</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qtextcontrol.cpp" line="2814"/>
         <source>ZWSP Zero width space</source>
-        <translation></translation>
+        <translation>ZWSP Нулевой пробел</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qtextcontrol.cpp" line="2815"/>
         <source>LRE Start of left-to-right embedding</source>
-        <translation></translation>
+        <translation>LRE Вставка слева направо</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qtextcontrol.cpp" line="2816"/>
         <source>RLE Start of right-to-left embedding</source>
-        <translation></translation>
+        <translation>RLE Вставка справа налево</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qtextcontrol.cpp" line="2817"/>
         <source>LRO Start of left-to-right override</source>
-        <translation></translation>
+        <translation>LRO Перекрывание слева направо</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qtextcontrol.cpp" line="2818"/>
         <source>RLO Start of right-to-left override</source>
-        <translation></translation>
+        <translation>RLO Перекрывание справа налево</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qtextcontrol.cpp" line="2819"/>
         <source>PDF Pop directional formatting</source>
-        <translation></translation>
+        <translation>PDF Расположение по вертикали</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qtextcontrol.cpp" line="2825"/>
         <source>Insert Unicode control character</source>
-        <translation></translation>
+        <translation>Вставить управляющий символ Юникод</translation>
     </message>
 </context>
 <context>
