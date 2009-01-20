@@ -5316,7 +5316,7 @@ Please choose a different file name.</source>
     <message>
         <location filename="../src/gui/text/qtextcontrol.cpp" line="2825"/>
         <source>Insert Unicode control character</source>
-        <translation>Вставить управляющий символ Юникод</translation>
+        <translation>Символ Юникод</translation>
     </message>
 </context>
 <context>
