@@ -5815,6 +5815,109 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>OptRoster</name>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="14"/>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="26"/>
+        <source>Roster window always on top</source>
+        <translation type="unfinished">Окно ростера всегда наверху</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="33"/>
+        <source>Auto-resize contact list</source>
+        <translation type="unfinished">Автоматически изменять размер ростера</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="43"/>
+        <source>Use left-click for menu</source>
+        <translation type="unfinished">Вызов меню левой кнопкой мыши</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="50"/>
+        <source>Show menubar</source>
+        <translation type="unfinished">Отображать панель меню в ростере</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="57"/>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="unfinished">Отключает полосу прокрутки в окне приложения.</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="60"/>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">Отключить полосу прокрутки</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="67"/>
+        <source>Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="79"/>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="82"/>
+        <source>Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="89"/>
+        <source>Show moods in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="92"/>
+        <source>Moods</source>
+        <translation type="unfinished">Настроения</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="99"/>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="102"/>
+        <source>Now playing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="109"/>
+        <source>Show icon of user client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="112"/>
+        <source>Clients</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="125"/>
+        <source>Avatar settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="133"/>
+        <source>Fixed height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="161"/>
+        <source>Width not bigger than row height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="174"/>
+        <source>Round corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptShortcuts</name>
     <message>
         <location filename="../src/options/opt_shortcuts.ui" line="68"/>
@@ -6591,6 +6694,39 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location filename="../src/options/opt_plugins.cpp" line="149"/>
         <source>This plugin has no user configurable options</source>
         <translation>Этот модуль не имеет опций для настройки пользователем</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRoster</name>
+    <message>
+        <location filename="../src/options/opt_roster.cpp" line="20"/>
+        <source>Roster</source>
+        <translation type="unfinished">Список контактов</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.cpp" line="20"/>
+        <source>Roster window options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.cpp" line="38"/>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="unfinished">Помещать основное окно Psi поверх всех других окон.</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.cpp" line="40"/>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="unfinished">Автоматически изменять размер основного окна для отображения всех контактов.</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.cpp" line="43"/>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="unfinished">Обычно при клике правой кнопкой мыши по контакту открывается контекстное меню.  Отметьте эту опцию, если хотите использовать для этого левую кнопку.</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.cpp" line="45"/>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="unfinished">Показывать меню в окне приложения.</translation>
     </message>
 </context>
 <context>
