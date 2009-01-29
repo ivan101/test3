@@ -10476,37 +10476,37 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/activitycatalog.cpp" line="99"/>
         <source>Dancing</source>
-        <translation type="unfinished"></translation>
+        <translation>Танцы</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="121"/>
         <source>Hiding</source>
-        <translation type="unfinished"></translation>
+        <translation>Прячусь</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="123"/>
         <source>Praying</source>
-        <translation type="unfinished"></translation>
+        <translation>Молюсь</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="126"/>
         <source>Thinking</source>
-        <translation type="unfinished"></translation>
+        <translation>Размышления</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="129"/>
         <source>Fishing</source>
-        <translation type="unfinished"></translation>
+        <translation>Рыбалка</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="136"/>
         <source>Smoking</source>
-        <translation type="unfinished"></translation>
+        <translation>Курю</translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="153"/>
         <source>On A Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>В самолёте</translation>
     </message>
 </context>
 <context>
