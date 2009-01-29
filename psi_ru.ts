@@ -10473,6 +10473,41 @@ Would you like to activate that session now?</source>
         <source>Weak</source>
         <translation>Слабое</translation>
     </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="99"/>
+        <source>Dancing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="121"/>
+        <source>Hiding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="123"/>
+        <source>Praying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="126"/>
+        <source>Thinking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="129"/>
+        <source>Fishing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="136"/>
+        <source>Smoking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/activitycatalog.cpp" line="153"/>
+        <source>On A Plane</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RegistrationDlg</name>
