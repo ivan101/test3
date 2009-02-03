@@ -1,0 +1,5 @@
+commit*
+*.bak
+*.zip
+.DS_Store
+
